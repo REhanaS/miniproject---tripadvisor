@@ -1,0 +1,792 @@
+latitude,rating,url,name,longitude
+42.81316,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d1048823-Reviews-Mulberry_Italian_Ristorante-Buffalo_New_York.html,Mulberry Italian Ristorante,-78.842285
+42.938396,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d3419282-Reviews-Sun_Restaurant-Buffalo_New_York.html,Sun Restaurant,-78.903915
+42.8771,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d7285589-Reviews-716_Food_Sport-Buffalo_New_York.html,716 Food & Sport,-78.87668
+42.887794,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4450412-Reviews-Osteria_166-Buffalo_New_York.html,Osteria 166,-78.8763
+42.892597,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d6216366-Reviews-Dinosaur_Bar_B_Que-Buffalo_New_York.html,Dinosaur Bar-B-Que,-78.874115
+42.89029,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d518251-Reviews-Bacchus_Wine_Bar_Restaurant-Buffalo_New_York.html,Bacchus Wine Bar & Restaurant,-78.874916
+42.902374,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408581-Reviews-Anchor_Bar-Buffalo_New_York.html,Anchor Bar,-78.86845
+42.878613,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408640-Reviews-Chef_s-Buffalo_New_York.html,Chef's,-78.86562
+42.921566,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408577-Reviews-Hutch_s-Buffalo_New_York.html,Hutch's,-78.867165
+42.881084,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408582-Reviews-Pearl_Street_Grill_Brewery-Buffalo_New_York.html,Pearl Street Grill & Brewery,-78.87738
+42.912773,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408570-Reviews-Left_Bank-Buffalo_New_York.html,Left Bank,-78.88296
+42.87748,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3242758-Reviews-Liberty_Hound-Buffalo_New_York.html,Liberty Hound,-78.87918
+42.887814,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d8375479-Reviews-Big_Ditch_Brewing_Company-Buffalo_New_York.html,Big Ditch Brewing Company,-78.87092
+42.958687,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5970126-Reviews-Balkan_Dining-Buffalo_New_York.html,Balkan Dining,-78.84344
+42.893784,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d7098856-Reviews-Buffalo_Proper_Plate_Pour-Buffalo_New_York.html,Buffalo Proper Plate & Pour,-78.87389
+42.88852,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d7130694-Reviews-Oshun_Oyster_Bar-Buffalo_New_York.html,Oshun Oyster Bar,-78.87261
+42.916977,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408865-Reviews-Blue_Monk-Buffalo_New_York.html,Blue Monk,-78.8768
+42.89955,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d510235-Reviews-Gabriel_s_Gate_Restaurant-Buffalo_New_York.html,Gabriel's Gate Restaurant,-78.875374
+42.941174,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408561-Reviews-Oliver_s_Restaurant-Buffalo_New_York.html,Oliver's Restaurant,-78.86738
+42.95773,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d881034-Reviews-Sophia_s_Restaurant-Buffalo_New_York.html,Sophia's Restaurant,-78.88927
+42.92677,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408562-Reviews-Pano_s_Restaurant-Buffalo_New_York.html,Pano's Restaurant,-78.87675
+42.891167,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d1580012-Reviews-Sea_Bar_City-Buffalo_New_York.html,Sea Bar City,-78.86998
+42.888737,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d510234-Reviews-EB_Green_s_Steakhouse-Buffalo_New_York.html,EB Green's Steakhouse,-78.87399
+42.957623,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d843712-Reviews-Suzy_Q_s_Barbeque_Shack-Buffalo_New_York.html,Suzy Q's Barbeque Shack,-78.91327
+42.9481,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408607-Reviews-Lombardo_Ristorante-Buffalo_New_York.html,Lombardo Ristorante,-78.8638
+42.896725,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d663989-Reviews-Betty_s-Buffalo_New_York.html,Betty's,-78.878494
+42.97914,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408571-Reviews-Duff_s_Sheridan_Patio-Buffalo_New_York.html,Duff's Sheridan Patio,-78.798355
+42.899967,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d653247-Reviews-TEMPO-Buffalo_New_York.html,TEMPO,-78.87347
+42.95093,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d409265-Reviews-Cracker_Barrel-Buffalo_New_York.html,Cracker Barrel,-78.69591
+42.887753,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4440585-Reviews-Tappo_Restaurant-Buffalo_New_York.html,Tappo Restaurant,-78.87156
+42.89025,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d8114033-Reviews-Toutant-Buffalo_New_York.html,Toutant,-78.87018
+42.90717,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408672-Reviews-Alton_s-Buffalo_New_York.html,Alton's,-78.75296
+42.94789,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4379582-Reviews-Craving-Buffalo_New_York.html,Craving,-78.85349
+42.899433,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4232746-Reviews-Don_Tequila_Mexican_Restaurant-Buffalo_New_York.html,Don Tequila Mexican Restaurant,-78.8729
+42.89934,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d7895361-Reviews-Allen_Street_Poutine_Company-Buffalo_New_York.html,Allen Street Poutine Company,-78.87903
+42.952747,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d797324-Reviews-Shango-Buffalo_New_York.html,Shango,-78.82454
+42.92708,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408836-Reviews-Saigon_Cafe-Buffalo_New_York.html,Saigon Cafe,-78.87703
+42.88492,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d7285776-Reviews-Bourbon_and_Butter-Buffalo_New_York.html,Bourbon and Butter,-78.87279
+42.876667,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d7675138-Reviews-Hydraulic_Hearth_Restaurant_Brewery-Buffalo_New_York.html,Hydraulic Hearth Restaurant & Brewery,-78.8496
+42.91319,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d2481162-Reviews-Vera_Pizzeria-Buffalo_New_York.html,Vera Pizzeria,-78.87834
+42.950275,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d663990-Reviews-Lake_Effect_Diner-Buffalo_New_York.html,Lake Effect Diner,-78.826515
+42.89082,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d646928-Reviews-Bada_Bing_Bar_Grill-Buffalo_New_York.html,Bada Bing Bar & Grill,-78.87712
+42.95864,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4456669-Reviews-Vizzi_s-Buffalo_New_York.html,Vizzi's,-78.85365
+42.905872,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d7159208-Reviews-The_Black_Sheep-Buffalo_New_York.html,The Black Sheep,-78.8872
+42.952126,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408574-Reviews-Amy_s_Place-Buffalo_New_York.html,Amy's Place,-78.825226
+42.861153,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4783645-Reviews-English_Pork_Pie_Company-Buffalo_New_York.html,English Pork Pie Company,-78.83753
+42.892185,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d879010-Reviews-Buffalo_Chophouse-Buffalo_New_York.html,Buffalo Chophouse,-78.87531
+42.905834,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4289871-Reviews-Martin_Cooks-Buffalo_New_York.html,Martin Cooks,-78.888214
+42.78604,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d863108-Reviews-Poppyseed_Restaurant-Buffalo_New_York.html,Poppyseed Restaurant,-78.8122
+42.98897,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d409202-Reviews-Santora_s_Phase_II-Buffalo_New_York.html,Santora's Phase II,-78.79035
+42.899593,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d7991564-Reviews-Allen_Burger_Venture-Buffalo_New_York.html,Allen Burger Venture,-78.87643
+42.941788,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d1034229-Reviews-Vino_s_Italian_Restaurant-Buffalo_New_York.html,Vino's Italian Restaurant,-78.87875
+42.80094,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4026054-Reviews-Duff_s_Famous_Wings_in_Orchard_Park-Buffalo_New_York.html,Duff's Famous Wings in Orchard Park,-78.75333
+,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d8592760-Reviews-Panorama_on_Seven-Buffalo_New_York.html,,
+42.95386,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d8084395-Reviews-Lin_Authentic_Thai_Burmese_Restaurant-Buffalo_New_York.html,Lin Authentic Thai & Burmese Restaurant,-78.90561
+42.924385,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4549903-Reviews-Ashker_s_Juice_Bar_Bistro-Buffalo_New_York.html,Ashker's Juice Bar & Bistro,-78.87702
+42.91789,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d6823179-Reviews-Agave_Mexican_Restaurant-Buffalo_New_York.html,Agave Mexican Restaurant,-78.87664
+42.882317,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408874-Reviews-Charlie_The_Butcher_s_Express-Buffalo_New_York.html,Charlie The Butcher's Express,-78.875046
+42.878395,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d8798868-Reviews-Pizza_Plant_Italian_Pub-Buffalo_New_York.html,Pizza Plant Italian Pub,-78.87633
+42.97697,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d1982196-Reviews-The_Delaware-Buffalo_New_York.html,The Delaware,-78.87235
+42.917854,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d847477-Reviews-Globe_Market-Buffalo_New_York.html,Globe Market,-78.87752
+42.83599,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d409101-Reviews-Imperial_Pizza-Buffalo_New_York.html,Imperial Pizza,-78.80721
+42.946117,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d5079089-Reviews-Taj_Grill-Buffalo_New_York.html,Taj Grill,-78.86895
+42.80756,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4626769-Reviews-Apollo_Family_Restaurant-Buffalo_New_York.html,Apollo Family Restaurant,-78.82449
+42.89071,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d836004-Reviews-Chocolate_Bar-Buffalo_New_York.html,Chocolate Bar,-78.87729
+42.8864,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d8858533-Reviews-Deep_South_Taco-Buffalo_New_York.html,Deep South Taco,-78.87156
+42.95541,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4026028-Reviews-Anderson_s_Frozen_Custard-Buffalo_New_York.html,Anderson's Frozen Custard,-78.869774
+42.95864,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d821516-Reviews-Sinatra_s_Trilogy_Restaurant-Buffalo_New_York.html,Sinatra's Trilogy Restaurant,-78.85273
+42.912025,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d6852292-Reviews-Texas_de_Brazil-Buffalo_New_York.html,Texas de Brazil,-78.76344
+42.979355,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d409010-Reviews-Pizza_Plant_Italian_Pub-Buffalo_New_York.html,Pizza Plant Italian Pub,-78.69751
+42.906242,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d7741975-Reviews-Niagara_Seafood_Inc-Buffalo_New_York.html,Niagara Seafood Inc,-78.89648
+42.86992,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d8624670-Reviews-River_Works-Buffalo_New_York.html,River Works,-78.872635
+42.916405,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d409072-Reviews-Acropolis_Family_Restaurant-Buffalo_New_York.html,Acropolis Family Restaurant,-78.8773
+42.89063,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4830530-Reviews-The_Lodge-Buffalo_New_York.html,The Lodge,-78.87596
+42.911587,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5078173-Reviews-Joe_s_Deli-Buffalo_New_York.html,Joe's Deli,-78.8774
+42.94746,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d510228-Reviews-Bob_John_s_La_Hacienda-Buffalo_New_York.html,Bob & John's La Hacienda,-78.85083
+42.894043,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408556-Reviews-Rue_Franklin-Buffalo_New_York.html,Rue Franklin,-78.87384
+42.91308,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408578-Reviews-Kuni_s_Sushi_Bar-Buffalo_New_York.html,Kuni's Sushi Bar,-78.87839
+42.916615,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408579-Reviews-Cecelia_s_Ristorante-Buffalo_New_York.html,Cecelia's Ristorante,-78.87751
+42.9474,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d9856406-Reviews-Lloyd_Taco_Factory-Buffalo_New_York.html,Lloyd Taco Factory,-78.85256
+42.96674,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d820743-Reviews-Brennan_s_Bowery_Bar_Restaurant-Buffalo_New_York.html,Brennan's Bowery Bar & Restaurant,-78.693695
+42.949635,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5008080-Reviews-Zahz_Pizza-Buffalo_New_York.html,Zahz Pizza,-78.74459
+42.87583,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d10218881-Reviews-The_Mahony-Buffalo_New_York.html,The Mahony,-78.86943
+42.915237,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d2633760-Reviews-P_F_Chang_s-Buffalo_New_York.html,P.F. Chang's,-78.76313
+42.88844,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d10087418-Reviews-Raclettes-Buffalo_New_York.html,Raclettes,-78.87316
+42.93857,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d8673356-Reviews-Parkside_Meadow-Buffalo_New_York.html,Parkside Meadow,-78.850426
+42.945087,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4339186-Reviews-Tokyo_II-Buffalo_New_York.html,Tokyo II,-78.86822
+42.88972,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d7114797-Reviews-Sidelines_Sports_Bar_and_Grill-Buffalo_New_York.html,Sidelines Sports Bar and Grill,-78.87709
+42.89016,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d409028-Reviews-Prima_Pizza_Pasta-Buffalo_New_York.html,Prima Pizza Pasta,-78.874344
+42.881058,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3248490-Reviews-BRAWLER_S_BACK_ALLEY_DELI-Buffalo_New_York.html,BRAWLER'S BACK ALLEY DELI,-78.87728
+42.902252,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4020842-Reviews-Lenox_Grill-Buffalo_New_York.html,Lenox Grill,-78.87502
+42.947437,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d883394-Reviews-The_Wellington_Pub-Buffalo_New_York.html,The Wellington Pub,-78.850975
+43.01544,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d1058699-Reviews-Shannon_Pub-Buffalo_New_York.html,Shannon Pub,-78.82228
+42.8926,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d905172-Reviews-Cabaret-Buffalo_New_York.html,Cabaret,-78.8737
+42.889973,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d8674781-Reviews-Marble_Rye-Buffalo_New_York.html,Marble + Rye,-78.87001
+42.9653,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d1457203-Reviews-Tully_s_Good_Times-Buffalo_New_York.html,Tully's Good Times,-78.693794
+42.895813,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408676-Reviews-Founding_Fathers_Restaurant-Buffalo_New_York.html,Founding Fathers Restaurant,-78.87416
+42.8638,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5081780-Reviews-The_Olive_Branch_Family_Restaurant-Buffalo_New_York.html,The Olive Branch Family Restaurant,-78.7539
+42.877106,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d9709515-Reviews-Tim_Hortons-Buffalo_New_York.html,Tim Hortons,-78.87692
+42.990826,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5060296-Reviews-Zetti_s_Pizza_and_Pasta-Buffalo_New_York.html,Zetti's Pizza and Pasta,-78.79169
+42.947876,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d1064774-Reviews-Joe_s_Deli-Buffalo_New_York.html,Joe's Deli,-78.85919
+42.992386,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4632909-Reviews-Five_Guys-Buffalo_New_York.html,Five Guys,-78.69695
+42.9529,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d8758129-Reviews-Sato_Ramen-Buffalo_New_York.html,Sato Ramen,-78.824356
+42.89068,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408568-Reviews-Jim_s_Steakout-Buffalo_New_York.html,Jim's Steakout,-78.87636
+42.9153,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d6154501-Reviews-Pho_Dollar_Vietnamese_Restaurant_and_Bar-Buffalo_New_York.html,Pho Dollar Vietnamese Restaurant and Bar,-78.88981
+42.92416,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d5211809-Reviews-Gypsy_Parlor-Buffalo_New_York.html,Gypsy Parlor,-78.89014
+42.92251,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408932-Reviews-Jim_s_Steak_out-Buffalo_New_York.html,Jim's Steak-out,-78.87701
+42.890827,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d853233-Reviews-Salsarita_s_Fresh_Cantina-Buffalo_New_York.html,Salsarita's Fresh Cantina,-78.877174
+42.93983,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d409091-Reviews-Nick_s_Place-Buffalo_New_York.html,Nick's Place,-78.88552
+42.89048,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d10241450-Reviews-Local_Kitchen_Beer_Bar-Buffalo_New_York.html,Local Kitchen & Beer Bar,-78.87643
+42.94772,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408739-Reviews-Bertha_s-Buffalo_New_York.html,Bertha's,-78.8553
+,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d5316836-Reviews-Grill_Kabob-Buffalo_New_York.html,,
+42.885136,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408679-Reviews-Gino_Joe_s_Pizza-Buffalo_New_York.html,Gino & Joe's Pizza,-78.87503
+42.872234,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d409048-Reviews-Swannie_House-Buffalo_New_York.html,Swannie House,-78.87184
+42.8996,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d846602-Reviews-Allen_St_Hardware_Store_Cafe-Buffalo_New_York.html,Allen St Hardware Store Cafe,-78.87922
+42.926273,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408598-Reviews-Mister_Pizza-Buffalo_New_York.html,Mister Pizza,-78.87664
+42.86063,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d10209968-Reviews-Parker_s_British_Institution-Buffalo_New_York.html,Parker's British Institution,-78.83835
+42.890625,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d10047686-Reviews-Expo-Buffalo_New_York.html,Expo,-78.87218
+42.88803,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d8746629-Reviews-D_Avolio-Buffalo_New_York.html,D'Avolio,-78.87325
+42.892365,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4252546-Reviews-Risa_s_Restaurant-Buffalo_New_York.html,Risa's Restaurant,-78.875786
+42.95883,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4824475-Reviews-Gigi_s_Cucina_Povera-Buffalo_New_York.html,Gigi's Cucina Povera,-78.854256
+42.900276,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3916359-Reviews-Twisted_Pickle-Buffalo_New_York.html,Twisted Pickle,-78.8627
+42.88394,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d874846-Reviews-Deco_Restaurant-Buffalo_New_York.html,Deco Restaurant,-78.88023
+42.94755,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408576-Reviews-Lone_Star_Fajita_Grill-Buffalo_New_York.html,Lone Star Fajita Grill,-78.83937
+42.899563,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d3509436-Reviews-Gatur_s_Ethiopian_Cuisine-Buffalo_New_York.html,Gatur's Ethiopian Cuisine,-78.872856
+42.95827,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d409117-Reviews-Neighbors_Pub-Buffalo_New_York.html,Neighbors Pub,-78.83038
+42.94025,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4558545-Reviews-The_Kitchen_Table_Family_Restaurant-Buffalo_New_York.html,The Kitchen Table Family Restaurant,-78.87851
+42.876003,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4765687-Reviews-Larkin_Filling_Station-Buffalo_New_York.html,Larkin Filling Station,-78.84944
+42.992035,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d1170278-Reviews-Sake_Cafe_US-Buffalo_New_York.html,Sake Cafe US,-78.69696
+42.89684,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d1210107-Reviews-Just_Vino-Buffalo_New_York.html,Just Vino,-78.87076
+42.859947,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d824881-Reviews-Picasso_s_Pizza-Buffalo_New_York.html,Picasso's Pizza,-78.75412
+42.881794,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d841199-Reviews-The_Irish_Times-Buffalo_New_York.html,The Irish Times,-78.8738
+,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4825715-Reviews-Lovejoy_Pizza-Buffalo_New_York.html,,
+,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d3716820-Reviews-Panera_Bread-Buffalo_New_York.html,,
+42.9225,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d2312437-Reviews-Mezza_Restaurant_Lounge-Buffalo_New_York.html,Mezza Restaurant & Lounge,-78.87701
+42.885166,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3387248-Reviews-Mike_A_at_Hotel_Lafayette-Buffalo_New_York.html,Mike A at Hotel Lafayette,-78.87317
+42.96322,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d820009-Reviews-Sorrentino_s_Spaghetti_House-Buffalo_New_York.html,Sorrentino's Spaghetti House,-78.74269
+42.90116,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d10116753-Reviews-Pasion_Cuban-Buffalo_New_York.html,Pasion Cuban,-78.8768
+42.94519,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408707-Reviews-Lunetta_s_Restaurant-Buffalo_New_York.html,Lunetta's Restaurant,-78.76709
+42.87171,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408560-Reviews-Diva_s_Pizzeria-Buffalo_New_York.html,Diva's Pizzeria,-78.79795
+42.899345,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408572-Reviews-Towne_Restaurant-Buffalo_New_York.html,Towne Restaurant,-78.87691
+42.95458,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d857485-Reviews-Hanna_Ice_Cream_Place-Buffalo_New_York.html,Hanna Ice Cream Place,-78.85923
+42.97099,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4255459-Reviews-Subway-Buffalo_New_York.html,Subway,-78.69684
+42.894974,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3652778-Reviews-Kaydara_Noodle_Bar-Buffalo_New_York.html,Kaydara Noodle Bar,-78.87077
+42.89121,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4921623-Reviews-Destini_s_Pizza-Buffalo_New_York.html,Destini's Pizza,-78.8766
+42.85541,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408742-Reviews-Leo_s_Pizzeria-Buffalo_New_York.html,Leo's Pizzeria,-78.80981
+42.99314,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5008430-Reviews-The_U-Buffalo_New_York.html,The U,-78.80465
+42.93254,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4659209-Reviews-Bianca_s_Pizza_Place-Buffalo_New_York.html,Bianca's Pizza Place,-78.72706
+42.89375,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d2183434-Reviews-Chow_Chocolat-Buffalo_New_York.html,Chow Chocolat,-78.87175
+42.952415,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4983076-Reviews-Vin_Chet_Pastry_Shop-Buffalo_New_York.html,Vin-Chet Pastry Shop,-78.77897
+42.825527,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4947920-Reviews-Broadway_Bobby_s_Pizzeria-Buffalo_New_York.html,Broadway Bobby's Pizzeria,-78.826385
+42.8513,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408954-Reviews-Hong_Kong_Kitchen-Buffalo_New_York.html,Hong Kong Kitchen,-78.805
+42.9228,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d409107-Reviews-Raymondo_s_Pizzeria-Buffalo_New_York.html,Raymondo's Pizzeria,-78.79791
+42.94791,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d6616710-Reviews-Manakeesh_More-Buffalo_New_York.html,Manakeesh & More,-78.865585
+42.898716,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d6998050-Reviews-Wally_s_Cafe_and_Pizzeria-Buffalo_New_York.html,Wally's Cafe and Pizzeria,-78.7975
+42.95843,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d829981-Reviews-DiMarco_s-Buffalo_New_York.html,DiMarco's,-78.83236
+42.975918,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5602793-Reviews-Mike_s_Subs_Kenmore_s_Original-Buffalo_New_York.html,Mike's Subs-Kenmore's Original,-78.8717
+42.8996,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3388676-Reviews-Colter_Bay_Grill-Buffalo_New_York.html,Colter Bay Grill,-78.873566
+42.968113,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4628421-Reviews-Dooley_s-Buffalo_New_York.html,Dooley's,-78.84836
+42.87852,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d1073996-Reviews-DiTondo_s-Buffalo_New_York.html,DiTondo's,-78.86285
+42.902233,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4655595-Reviews-Chuck_s-Buffalo_New_York.html,Chuck's,-78.87049
+42.894634,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4840706-Reviews-Jacobi_s_Pizza_Express-Buffalo_New_York.html,Jacobi's Pizza Express,-78.87716
+42.784,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4417819-Reviews-Subway-Buffalo_New_York.html,Subway,-78.81121
+42.877728,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d7805962-Reviews-Roux_Soup_Bar_and_Cafe-Buffalo_New_York.html,Roux Soup Bar and Cafe,-78.8755
+42.89773,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d409065-Reviews-Taste_of_Life-Buffalo_New_York.html,Taste of Life,-78.83845
+42.914585,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3914232-Reviews-Rich_s_Atrium-Buffalo_New_York.html,Rich's Atrium,-78.89853
+42.945133,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4542035-Reviews-Bailey_Seafood-Buffalo_New_York.html,Bailey Seafood,-78.81396
+42.90286,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4952418-Reviews-Happy_Swallow_Restaurant-Buffalo_New_York.html,Happy Swallow Restaurant,-78.8227
+42.82912,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5058513-Reviews-Wendy_s-Buffalo_New_York.html,Wendy's,-78.77705
+42.892963,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d10292091-Reviews-Matinee-Buffalo_New_York.html,Matinee,-78.87245
+42.93251,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d907334-Reviews-Yum_Yums-Buffalo_New_York.html,Yum Yums,-78.76229
+42.890625,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d10003978-Reviews-Mercato_by_Osteria_166-Buffalo_New_York.html,Mercato by Osteria 166,-78.87218
+43.001884,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5555649-Reviews-Subway-Buffalo_New_York.html,Subway,-78.7849
+42.88632,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408902-Reviews-Taki_s_Restaurant-Buffalo_New_York.html,Taki's Restaurant,-78.876015
+42.95482,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4827554-Reviews-Roaming_Buffalo-Buffalo_New_York.html,Roaming Buffalo,-78.89902
+42.945927,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4893106-Reviews-Johnny_s_Pizzeria_Restaurant-Buffalo_New_York.html,Johnny's Pizzeria & Restaurant,-78.75375
+42.838737,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4656943-Reviews-Pottersfield-Buffalo_New_York.html,Pottersfield,-78.79871
+42.9478,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d5082143-Reviews-Marco_s_Italian_Deli-Buffalo_New_York.html,Marco's Italian Deli,-78.843475
+42.969353,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d5099414-Reviews-Pizza_Hut-Buffalo_New_York.html,Pizza Hut,-78.87053
+42.89316,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4936783-Reviews-Kiebzak_s_Restaurant_Beginnings_Banquets_Facilits-Buffalo_New_York.html,Kiebzak's Restaurant & Beginnings Banquets Facilits,-78.78861
+42.88697,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d9696955-Reviews-JJ_s_Casa_Di_Pizza-Buffalo_New_York.html,JJ's Casa-Di-Pizza,-78.87342
+42.9281,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d409184-Reviews-Airport_Pizzeria-Buffalo_New_York.html,Airport Pizzeria,-78.75046
+42.898315,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4929037-Reviews-Sazon_Criollo-Buffalo_New_York.html,Sazon Criollo,-78.884285
+42.960495,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d5209924-Reviews-Brioso-Buffalo_New_York.html,Brioso,-78.758965
+42.91051,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4715523-Reviews-Tokyo_Shanghai_Bistro-Buffalo_New_York.html,Tokyo Shanghai Bistro,-78.87709
+42.9475,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d409122-Reviews-99_Fast_Food_Restaurant-Buffalo_New_York.html,99 Fast Food Restaurant,-78.81368
+42.9726,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d824879-Reviews-Ling_Ling_Szechuan_Hunan_Cantonese-Buffalo_New_York.html,Ling Ling Szechuan Hunan Cantonese,-78.87871
+42.8752,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d3448281-Reviews-Lagerhaus_95-Buffalo_New_York.html,Lagerhaus 95,-78.87405
+42.901066,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d2315877-Reviews-Grille_620-Buffalo_New_York.html,Grille 620,-78.87373
+42.89679,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3902916-Reviews-Hamlin_House-Buffalo_New_York.html,Hamlin House,-78.87289
+42.852074,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4434810-Reviews-Conlon_s_Bar_Grill-Buffalo_New_York.html,Conlon's Bar & Grill,-78.81721
+42.934822,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5558309-Reviews-White_Rabbit_Yogurt-Buffalo_New_York.html,White Rabbit Yogurt,-78.87781
+42.882416,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d6856150-Reviews-Vasilis_Restaurant-Buffalo_New_York.html,Vasilis Restaurant,-78.875534
+42.947716,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4223832-Reviews-Mes_Que-Buffalo_New_York.html,Mes Que,-78.85547
+42.84531,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d950220-Reviews-The_Nine_Eleven_Tavern-Buffalo_New_York.html,The Nine-Eleven Tavern,-78.82329
+42.85655,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d8726202-Reviews-Mayer_Brothers_Cider_Mill-Buffalo_New_York.html,Mayer Brothers Cider Mill,-78.69949
+42.87164,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d883390-Reviews-Macedonian_Red_Hots-Buffalo_New_York.html,Macedonian Red Hots,-78.79469
+42.882168,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d3717353-Reviews-Just_Pizza-Buffalo_New_York.html,Just Pizza,-78.87495
+,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d8466392-Reviews-Knight_Slider_Food_Truck-Buffalo_New_York.html,,
+,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d7079994-Reviews-Queen_City_Kitchen-Buffalo_New_York.html,,
+42.911827,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d1073924-Reviews-Village_Beer_Merchant-Buffalo_New_York.html,Village Beer Merchant,-78.87689
+42.98014,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4365963-Reviews-Jim_s_Steakout-Buffalo_New_York.html,Jim's Steakout,-78.81001
+42.956516,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408687-Reviews-Applebee_s-Buffalo_New_York.html,Applebee's,-78.86998
+43.010998,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d409225-Reviews-Original_Pancake_House-Buffalo_New_York.html,Original Pancake House,-78.82162
+42.892,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d449461-Reviews-Neapolis_Family_Restaurant-Buffalo_New_York.html,Neapolis Family Restaurant,-78.81415
+42.887535,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d409031-Reviews-Gourmet_Store-Buffalo_New_York.html,Gourmet Store,-78.87512
+42.87106,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d3345282-Reviews-Swannee_house-Buffalo_New_York.html,swannee house,-78.87442
+42.872833,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d10081325-Reviews-Ballyhoo-Buffalo_New_York.html,Ballyhoo,-78.87164
+42.903107,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d8374997-Reviews-Buffalo_Rome-Buffalo_New_York.html,Buffalo Rome,-78.888275
+42.90116,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d8004236-Reviews-Black_Swan_Lounge-Buffalo_New_York.html,Black Swan Lounge,-78.8768
+42.910233,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408609-Reviews-Casa_di_pizza-Buffalo_New_York.html,Casa-di-pizza,-78.87708
+42.9758,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4695631-Reviews-Jolly_Jug-Buffalo_New_York.html,Jolly Jug,-78.82317
+,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3199666-Reviews-Jim_s_Truck_Plaza-Buffalo_New_York.html,,
+42.840828,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d823105-Reviews-Pete_n_Paul_Pockets-Buffalo_New_York.html,Pete 'n Paul Pockets,-78.82375
+42.89951,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d6956884-Reviews-Presto-Buffalo_New_York.html,Presto,-78.872505
+42.87484,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d905175-Reviews-Milo_s-Buffalo_New_York.html,Milo's,-78.87121
+42.97129,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4643627-Reviews-Pizza_Hut-Buffalo_New_York.html,Pizza Hut,-78.69684
+42.88418,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408950-Reviews-Anchor_Inn-Buffalo_New_York.html,Anchor Inn,-78.78046
+42.94212,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408743-Reviews-Faso_s_Restaurant-Buffalo_New_York.html,Faso's Restaurant,-78.90617
+42.963192,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408704-Reviews-Adam_s_Rib_Restaurant-Buffalo_New_York.html,Adam's Rib Restaurant,-78.78318
+42.912098,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d449457-Reviews-Mattie_s_Restaurant-Buffalo_New_York.html,Mattie's Restaurant,-78.83935
+42.96135,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d907865-Reviews-Dicamillo_Baking_Co_Incorporated-Buffalo_New_York.html,Dicamillo Baking Co Incorporated,-78.75393
+42.84776,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408951-Reviews-Seneca_Texas_Red_Hots-Buffalo_New_York.html,Seneca Texas Red Hots,-78.80085
+42.937817,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4231413-Reviews-The_Grille_at_Sportsmens_Tavern-Buffalo_New_York.html,The Grille at Sportsmens Tavern,-78.891815
+42.991886,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408660-Reviews-Bocce_Club_Pizzeria-Buffalo_New_York.html,Bocce Club Pizzeria,-78.6991
+42.88427,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408680-Reviews-Louies_Foot_Long_Hot_Dog-Buffalo_New_York.html,Louies Foot Long Hot Dog,-78.87485
+42.95059,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4365837-Reviews-Riverside_Cafe-Buffalo_New_York.html,Riverside Cafe,-78.90432
+42.899677,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d8806192-Reviews-Mulligan_s_Brick_Bar-Buffalo_New_York.html,Mulligan's Brick Bar,-78.87859
+42.956627,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4572109-Reviews-Wendy_s-Buffalo_New_York.html,Wendy's,-78.696815
+42.906002,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d779254-Reviews-Niagara_Cafe-Buffalo_New_York.html,Niagara Cafe,-78.896576
+42.797012,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d409156-Reviews-Rocko_s_Tacos-Buffalo_New_York.html,Rocko's Tacos,-78.828064
+42.849537,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d848336-Reviews-Blasdell_Pizza-Buffalo_New_York.html,Blasdell Pizza,-78.80245
+42.95836,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4826289-Reviews-The_Howling_Rooster-Buffalo_New_York.html,The Howling Rooster,-78.828926
+42.955975,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d8670616-Reviews-Pita_Gourmet-Buffalo_New_York.html,Pita Gourmet,-78.69632
+42.927452,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4628712-Reviews-Mr_Goodbar-Buffalo_New_York.html,Mr Goodbar,-78.877266
+42.90103,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4824579-Reviews-Savoy_Buffalo-Buffalo_New_York.html,Savoy Buffalo,-78.87696
+42.94304,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d882230-Reviews-Emily_s-Buffalo_New_York.html,Emily's,-78.90016
+42.88519,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408903-Reviews-Dough_Bois_Pizza-Buffalo_New_York.html,Dough Bois Pizza,-78.87702
+42.912025,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4999648-Reviews-Mr_Soulvaki-Buffalo_New_York.html,Mr Soulvaki,-78.76344
+42.94438,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4253553-Reviews-Denny_s-Buffalo_New_York.html,Denny's,-78.867714
+42.86992,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d8512694-Reviews-The_Ward-Buffalo_New_York.html,The Ward,-78.872635
+42.97872,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d1847400-Reviews-Mooney_s_sports_bar-Buffalo_New_York.html,mooney's sports bar,-78.88535
+42.934677,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4657525-Reviews-The_Lunchbox-Buffalo_New_York.html,The Lunchbox,-78.84236
+42.88861,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5108497-Reviews-Fera_s_Electric_Tower_Cafe-Buffalo_New_York.html,Fera's Electric Tower Cafe,-78.87185
+42.945835,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d856647-Reviews-Gordon_s-Buffalo_New_York.html,Gordon's,-78.868256
+,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4942413-Reviews-Salsarita_s_Fresh_Cantina-Buffalo_New_York.html,,
+42.952766,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4967231-Reviews-China_Star-Buffalo_New_York.html,China Star,-78.784035
+42.89942,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4106244-Reviews-Madonna_s-Buffalo_New_York.html,Madonna's,-78.87254
+42.799,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d886180-Reviews-Woodlawn_Diner-Buffalo_New_York.html,Woodlawn Diner,-78.84701
+42.949814,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4716572-Reviews-McDonald_s-Buffalo_New_York.html,McDonald's,-78.785736
+42.85599,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d2713605-Reviews-Chick_N_Pizza-Buffalo_New_York.html,Chick-N-Pizza,-78.82436
+42.94236,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d1066020-Reviews-Papa_Jake_s-Buffalo_New_York.html,Papa Jake's,-78.87876
+42.885876,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408840-Reviews-Moura_s_New_York_Style_Deli-Buffalo_New_York.html,Moura's New York Style Deli,-78.87489
+,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d2264229-Reviews-Templeton_s_Landing-Buffalo_New_York.html,,
+42.94779,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d409080-Reviews-Avenue_Pizza_Submarine_Take-Buffalo_New_York.html,Avenue Pizza & Submarine Take,-78.86688
+42.879124,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d9802830-Reviews-William_K_s-Buffalo_New_York.html,William K's,-78.88744
+42.784,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d5100586-Reviews-Yogen_Fruz-Buffalo_New_York.html,Yogen Fruz,-78.81121
+42.95051,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5051421-Reviews-Snyder_Bar_and_Grill-Buffalo_New_York.html,Snyder Bar and Grill,-78.78209
+42.960926,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d890132-Reviews-Number_1_Kitchen-Buffalo_New_York.html,Number 1 Kitchen,-78.756584
+42.903057,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4278272-Reviews-Wendy_s-Buffalo_New_York.html,Wendy's,-78.86821
+42.894306,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5092685-Reviews-R_L_Lounge-Buffalo_New_York.html,R & L Lounge,-78.83631
+43.001984,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d864756-Reviews-Young_Chow-Buffalo_New_York.html,Young Chow,-78.78563
+42.79219,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4480926-Reviews-McDonald_s-Buffalo_New_York.html,McDonald's,-78.81106
+42.947765,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d9457365-Reviews-Cafe_On_The_Avenue-Buffalo_New_York.html,Cafe On The Avenue,-78.862274
+42.989372,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d849130-Reviews-Arirang_Korean_Japanese-Buffalo_New_York.html,Arirang Korean & Japanese,-78.7901
+42.963566,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4974283-Reviews-Ziggy_s_Taco_Sub-Buffalo_New_York.html,Ziggy's Taco & Sub,-78.802826
+42.94767,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408860-Reviews-China_Star-Buffalo_New_York.html,China Star,-78.85008
+42.91064,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5104998-Reviews-NY_Metropolitan_Deli-Buffalo_New_York.html,NY Metropolitan Deli,-78.87744
+42.94777,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4835211-Reviews-La_Kueva_Restaurant-Buffalo_New_York.html,La Kueva Restaurant,-78.86149
+,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5007800-Reviews-Theodore_s_Red_Hots-Buffalo_New_York.html,,
+42.91202,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4455463-Reviews-Thirsty_Buffalo-Buffalo_New_York.html,Thirsty Buffalo,-78.87709
+42.94768,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4461106-Reviews-Subway-Buffalo_New_York.html,Subway,-78.85194
+42.82935,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5541253-Reviews-O_Daniels_Gin_Mill_and_Grill-Buffalo_New_York.html,O'Daniels Gin Mill and Grill,-78.805145
+42.86608,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d5106257-Reviews-Friendly_Chinese_Buffet-Buffalo_New_York.html,Friendly Chinese Buffet,-78.78841
+42.946594,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d409084-Reviews-Taste_Good_Chinese_Restaurant-Buffalo_New_York.html,Taste Good Chinese Restaurant,-78.868385
+42.825436,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5018700-Reviews-Steel_City_Pub-Buffalo_New_York.html,Steel City Pub,-78.803856
+42.917805,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d2459842-Reviews-Blue_Fin-Buffalo_New_York.html,Blue Fin,-78.87692
+42.95883,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4276588-Reviews-Zip_s_Pizza-Buffalo_New_York.html,Zip's Pizza,-78.9086
+42.850403,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d7988736-Reviews-Lynn_s_Wings_Things-Buffalo_New_York.html,Lynn's Wings & Things,-78.82461
+43.001984,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5455526-Reviews-Korean_Express-Buffalo_New_York.html,Korean Express,-78.78563
+42.90992,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d10394926-Reviews-The_Big_Easy-Buffalo_New_York.html,The Big Easy,-78.86554
+42.88595,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3174929-Reviews-2nd_Cup-Buffalo_New_York.html,2nd Cup,-78.87164
+42.94915,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4251617-Reviews-Jim_s_Steakout-Buffalo_New_York.html,Jim's Steakout,-78.82824
+42.79029,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d888476-Reviews-Odessey-Buffalo_New_York.html,Odessey,-78.82384
+42.955105,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3716792-Reviews-Subway-Buffalo_New_York.html,Subway,-78.82151
+42.958256,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3716811-Reviews-Subway-Buffalo_New_York.html,Subway,-78.870026
+42.85966,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3716755-Reviews-Mighty_Taco-Buffalo_New_York.html,Mighty Taco,-78.82516
+42.981594,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5481787-Reviews-Shenannigan_s_Bar_and_Grill-Buffalo_New_York.html,Shenannigan's Bar and Grill,-78.82234
+42.93561,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d7256298-Reviews-Georges-Buffalo_New_York.html,Georges,-78.90241
+42.943123,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d856645-Reviews-McDonald_s-Buffalo_New_York.html,McDonald's,-78.90704
+42.91489,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d7818169-Reviews-Taste_of_Africa_South_Sudanese_Soul_Food-Buffalo_New_York.html,Taste of Africa South Sudanese & Soul Food,-78.89036
+42.973854,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d10235122-Reviews-Ken_Ton_Elks_Lodge_1942-Buffalo_New_York.html,Ken-Ton Elks Lodge 1942,-78.878334
+42.826046,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d7723055-Reviews-Chopstick_House-Buffalo_New_York.html,Chopstick House,-78.83324
+42.947746,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4854520-Reviews-Vasilis_Express_2-Buffalo_New_York.html,Vasilis Express 2,-78.83748
+42.899353,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d7282136-Reviews-Exchange_on_Allen-Buffalo_New_York.html,Exchange on Allen,-78.87958
+42.889168,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d409027-Reviews-Vito_s_Market-Buffalo_New_York.html,Vito's Market,-78.87325
+42.85612,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d409095-Reviews-Jacobi_s_Restaurant_Pizzeria-Buffalo_New_York.html,Jacobi's Restaurant & Pizzeria,-78.8239
+42.885345,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d8448306-Reviews-Fables_Cafe-Buffalo_New_York.html,Fables Cafe,-78.87178
+42.89684,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4742346-Reviews-Roly_Poly-Buffalo_New_York.html,Roly Poly,-78.87076
+42.784,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d907863-Reviews-Buffalo_Beef_Brew-Buffalo_New_York.html,Buffalo Beef & Brew,-78.81121
+42.874382,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5084033-Reviews-Potts_Deli_and_Grille-Buffalo_New_York.html,Potts Deli and Grille,-78.793884
+42.980198,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d5013905-Reviews-McDonald_S-Buffalo_New_York.html,McDonald S,-78.807175
+42.891148,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4230557-Reviews-D_Arcy_McGee_s_Irish_Pub-Buffalo_New_York.html,D'Arcy McGee's Irish Pub,-78.8746
+42.98042,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4711119-Reviews-McDonald_s-Buffalo_New_York.html,McDonald's,-78.87273
+42.990704,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4276635-Reviews-Taco_Bell-Buffalo_New_York.html,Taco Bell,-78.804276
+42.908657,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5562997-Reviews-Nickel_City_Cheese_Mercantile-Buffalo_New_York.html,Nickel City Cheese & Mercantile,-78.87688
+42.88433,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d829124-Reviews-Master_Pizza-Buffalo_New_York.html,Master Pizza,-78.78261
+42.87873,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d841195-Reviews-Hatch_Restaurant-Buffalo_New_York.html,Hatch Restaurant,-78.88575
+42.947624,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d1073982-Reviews-Shadow_Lounge_Restaurant-Buffalo_New_York.html,Shadow Lounge & Restaurant,-78.85237
+42.89071,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4249214-Reviews-Subway-Buffalo_New_York.html,Subway,-78.87768
+42.86781,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4279650-Reviews-Granny_s_Kitchen-Buffalo_New_York.html,Granny's Kitchen,-78.71716
+42.909565,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4927199-Reviews-Millennium_Airport_Hotel_Buffalo-Buffalo_New_York.html,Millennium Airport Hotel Buffalo,-78.760445
+42.963497,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4918110-Reviews-Organic_3_Cafe-Buffalo_New_York.html,Organic 3 Cafe,-78.78562
+42.77509,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d409166-Reviews-Bedrock_Eatery-Buffalo_New_York.html,Bedrock Eatery,-78.8624
+42.916573,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d861518-Reviews-Holiday_Showcase_Restaurant-Buffalo_New_York.html,Holiday Showcase Restaurant,-78.75418
+42.99206,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4369843-Reviews-Arby_s-Buffalo_New_York.html,Arby's,-78.82244
+42.97106,2.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d859927-Reviews-Mustachio_s_Pizzeria-Buffalo_New_York.html,Mustachio's Pizzeria,-78.87871
+42.94776,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d906272-Reviews-Daddios_Pizzeria-Buffalo_New_York.html,Daddios Pizzeria,-78.862236
+,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d7210451-Reviews-Villa_Pizza-Buffalo_New_York.html,,
+42.90031,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d409047-Reviews-Au_Bon_Pain-Buffalo_New_York.html,Au Bon Pain,-78.86466
+42.88772,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d2468887-Reviews-Frankie_Mohawks-Buffalo_New_York.html,Frankie Mohawks,-78.87608
+42.77125,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4455036-Reviews-Picasso_s_Pizza-Buffalo_New_York.html,Picasso's Pizza,-78.81144
+42.948956,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4597953-Reviews-Mighty_Taco-Buffalo_New_York.html,Mighty Taco,-78.868164
+42.912025,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4461752-Reviews-Arby_s-Buffalo_New_York.html,Arby's,-78.76344
+42.98077,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4183086-Reviews-El_Palenque-Buffalo_New_York.html,El Palenque,-78.86545
+42.87775,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d828268-Reviews-Wendy_s-Buffalo_New_York.html,Wendy's,-78.80242
+42.965218,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d5009369-Reviews-Buffalo_Joes-Buffalo_New_York.html,Buffalo Joes,-78.67263
+42.8743,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5884779-Reviews-Chautauqua_Cafe-Buffalo_New_York.html,Chautauqua Cafe,-78.84865
+42.9795,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4653724-Reviews-Domino_s_Pizza-Buffalo_New_York.html,Domino's Pizza,-78.80151
+42.891777,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3855664-Reviews-Della_Mostra-Buffalo_New_York.html,Della Mostra,-78.87241
+42.95887,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d409097-Reviews-Franco_s_Pizza-Buffalo_New_York.html,Franco's Pizza,-78.86083
+42.94371,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d2654631-Reviews-Acqua-Buffalo_New_York.html,Acqua,-78.90748
+42.91742,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d409130-Reviews-Peter_K_s-Buffalo_New_York.html,Peter K's,-78.78432
+42.95404,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4517010-Reviews-Jim_s_Steakout-Buffalo_New_York.html,Jim's Steakout,-78.86858
+42.927643,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4246237-Reviews-Subway-Buffalo_New_York.html,Subway,-78.87703
+42.90836,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4974760-Reviews-McDonald_s-Buffalo_New_York.html,McDonald's,-78.78437
+42.984356,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4653126-Reviews-China_Town_Cuisine-Buffalo_New_York.html,China Town Cuisine,-78.872826
+42.887035,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5092443-Reviews-E_Cafe-Buffalo_New_York.html,E Cafe,-78.8736
+42.99072,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4250255-Reviews-Subway-Buffalo_New_York.html,Subway,-78.804276
+42.873886,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5223941-Reviews-The_Harbor_Deli_and_Grill-Buffalo_New_York.html,The Harbor Deli and Grill,-78.863525
+42.908745,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3315310-Reviews-Epic-Buffalo_New_York.html,Epic,-78.87686
+42.947414,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d7312395-Reviews-Boss_Buffalos_Original_Steak_Seafood-Buffalo_New_York.html,Boss Buffalos Original Steak & Seafood,-78.84374
+42.913204,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408673-Reviews-Place-Buffalo_New_York.html,Place,-78.878555
+42.98929,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5046731-Reviews-Jack_s_Place-Buffalo_New_York.html,Jack's Place,-78.79065
+42.93849,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4994723-Reviews-Lucy-Buffalo_New_York.html,Lucy,-78.889755
+42.83145,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4612328-Reviews-Seneca_Towne_Restaurant-Buffalo_New_York.html,Seneca Towne Restaurant,-78.7751
+42.947414,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d7294378-Reviews-Boss-Buffalo_New_York.html,Boss,-78.84374
+42.98559,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d3370398-Reviews-Chipotle-Buffalo_New_York.html,Chipotle,-78.69756
+42.996746,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d7286165-Reviews-80_China_Cafe-Buffalo_New_York.html,80 China Cafe,-78.8007
+42.9585,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408945-Reviews-Tin_Tin_Chinese_Restaurant-Buffalo_New_York.html,Tin Tin Chinese Restaurant,-78.84358
+42.899216,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d409050-Reviews-Frizzy_s_Bar_Grill-Buffalo_New_York.html,Frizzy's Bar & Grill,-78.87521
+42.90317,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408915-Reviews-Chinese_Kitchen-Buffalo_New_York.html,Chinese Kitchen,-78.87714
+42.85592,2.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4280381-Reviews-KFC-Buffalo_New_York.html,KFC,-78.82282
+42.997177,2.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4619176-Reviews-First_Pho_Saigon_Restaurant-Buffalo_New_York.html,First Pho Saigon Restaurant,-78.82237
+42.98051,2.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4618907-Reviews-Demetris-Buffalo_New_York.html,Demetris,-78.84986
+42.87174,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d882232-Reviews-Ray_s-Buffalo_New_York.html,Ray's,-78.7996
+42.917877,2.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d5018523-Reviews-Panera_Bread-Buffalo_New_York.html,Panera Bread,-78.876625
+42.98189,2.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4624173-Reviews-Tail_Gate_Deli-Buffalo_New_York.html,Tail Gate Deli,-78.86957
+42.94777,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3243421-Reviews-Canvas_1206-Buffalo_New_York.html,Canvas@1206,-78.863625
+42.890182,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5008253-Reviews-Mighty_Taco-Buffalo_New_York.html,Mighty Taco,-78.874825
+42.979744,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4930455-Reviews-Miss_Hot_Cafe-Buffalo_New_York.html,Miss Hot Cafe,-78.810715
+42.78173,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d545016-Reviews-Dock_at_the_Bay-Buffalo_New_York.html,Dock at the Bay,-78.85497
+42.952827,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d829123-Reviews-Kelly_s_Korner-Buffalo_New_York.html,Kelly's Korner,-78.86897
+,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5593423-Reviews-Hunan_Wok-Buffalo_New_York.html,,
+42.959732,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d8733987-Reviews-Dosa_Place-Buffalo_New_York.html,Dosa Place,-78.80389
+42.928593,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5569499-Reviews-Hong_Kong_Chinese_Restaurant-Buffalo_New_York.html,Hong Kong Chinese Restaurant,-78.75414
+42.92288,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d5099160-Reviews-Elmwood_Taco_Subs-Buffalo_New_York.html,Elmwood Taco & Subs,-78.87667
+42.94952,2.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d848345-Reviews-Wehrle_Restaurant-Buffalo_New_York.html,Wehrle Restaurant,-78.78353
+42.783916,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d409187-Reviews-TGI_Friday_s-Buffalo_New_York.html,TGI Friday's,-78.81044
+42.947487,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408690-Reviews-Gramma_Mora_s_Mexican_Restaurant-Buffalo_New_York.html,Gramma Mora's Mexican Restaurant,-78.853874
+42.947483,2.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d906275-Reviews-Digiulio_Co-Buffalo_New_York.html,Digiulio & Co,-78.84621
+42.92037,2.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408697-Reviews-Buffalo_Pizza_Co-Buffalo_New_York.html,Buffalo Pizza Co,-78.85919
+42.94771,2.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d2705385-Reviews-UnCorked-Buffalo_New_York.html,UnCorked,-78.85405
+42.923767,1.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d10048842-Reviews-Hero-Buffalo_New_York.html,Hero,-78.87719
+42.91995,1.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d906778-Reviews-Pine_Ridge_Pizza_Subs-Buffalo_New_York.html,Pine Ridge Pizza & Subs,-78.79333
+42.83963,1.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d907331-Reviews-Fetta_DI_Cielo_Pizzeria-Buffalo_New_York.html,Fetta DI Cielo Pizzeria,-78.76543
+42.909332,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d10447118-Reviews-MDK_Midtown_Kitchen-Buffalo_New_York.html,MDK/Midtown Kitchen,-78.87729
+42.910892,1.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5081756-Reviews-Subway-Buffalo_New_York.html,Subway,-78.86529
+42.97733,1.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4479652-Reviews-Mr_Pizza-Buffalo_New_York.html,Mr Pizza,-78.82313
+42.912487,1.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3717443-Reviews-McDonald_s-Buffalo_New_York.html,McDonald's,-78.81411
+42.94393,1.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d859932-Reviews-Tony_s_Pizzeria-Buffalo_New_York.html,Tony's Pizzeria,-78.7845
+42.91004,1.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3717658-Reviews-McDonald_s-Buffalo_New_York.html,McDonald's,-78.86636
+42.883766,1.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5489826-Reviews-Stawho_s_Bar_Grill-Buffalo_New_York.html,Stawho's Bar & Grill,-78.7844
+42.909283,1.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d879833-Reviews-Oyishi_Japan-Buffalo_New_York.html,Oyishi Japan,-78.76183
+42.88903,2.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3383132-Reviews-Sue_s_NY_Deli-Buffalo_New_York.html,Sue's NY Deli,-78.87954
+42.790092,1.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4660977-Reviews-Pizza_Hut-Buffalo_New_York.html,Pizza Hut,-78.81106
+42.907413,1.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d3717687-Reviews-Just_Pizza-Buffalo_New_York.html,Just Pizza,-78.82676
+42.85345,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d2059618-Reviews-Ireland_s_Own-Buffalo_New_York.html,Ireland's Own,-78.807755
+42.88678,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d409029-Reviews-E_Cafe-Buffalo_New_York.html,E-Cafe,-78.87403
+42.888096,,https://www.tripadvisor.com/Restaurant_Review-g60974-d848339-Reviews-Old_Editions_Book_Shop-Buffalo_New_York.html,Old Editions Book Shop,-78.87027
+42.770924,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4650306-Reviews-Burger_King-Buffalo_New_York.html,Burger King,-78.810844
+42.921806,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4941762-Reviews-New_Humboldt_Inn-Buffalo_New_York.html,New Humboldt Inn,-78.84434
+42.87405,,https://www.tripadvisor.com/Restaurant_Review-g60974-d880430-Reviews-Pappas_Coffee_Shop-Buffalo_New_York.html,Pappas Coffee Shop,-78.82518
+42.92472,,https://www.tripadvisor.com/Restaurant_Review-g60974-d880428-Reviews-Cones_n_Cakery_Incorporated-Buffalo_New_York.html,Cones 'n Cakery Incorporated,-78.87702
+42.90819,,https://www.tripadvisor.com/Restaurant_Review-g60974-d880432-Reviews-Wonder_Hostess_Thrift_Store-Buffalo_New_York.html,Wonder Hostess Thrift Store,-78.8271
+42.984356,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4797685-Reviews-Subway-Buffalo_New_York.html,Subway,-78.87284
+42.8962,,https://www.tripadvisor.com/Restaurant_Review-g60974-d880434-Reviews-J_R_s_Lounge-Buffalo_New_York.html,J R's Lounge,-78.81994
+42.91511,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4339679-Reviews-Avenue_Pizza-Buffalo_New_York.html,Avenue Pizza,-78.85453
+42.87933,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4435801-Reviews-Subway-Buffalo_New_York.html,Subway,-78.87648
+42.932316,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5572135-Reviews-Pee_Wee_Variety-Buffalo_New_York.html,Pee Wee Variety,-78.84636
+42.854362,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5603816-Reviews-Manny_s_Pizzeria-Buffalo_New_York.html,Manny's Pizzeria,-78.809204
+42.921883,,https://www.tripadvisor.com/Restaurant_Review-g60974-d595475-Reviews-Lotis_Cafe_Lounge-Buffalo_New_York.html,Lotis Cafe & Lounge,-78.86698
+42.898315,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5563358-Reviews-Willie_s_Little_Corner_Restaurant-Buffalo_New_York.html,Willie's Little Corner Restaurant,-78.884285
+42.99115,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5496716-Reviews-Subway-Buffalo_New_York.html,Subway,-78.76109
+42.940937,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5510118-Reviews-Subway-Buffalo_New_York.html,Subway,-78.81324
+42.935474,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4633901-Reviews-Pandora_s_Sports_Bar_Restaurant-Buffalo_New_York.html,Pandora's Sports Bar & Restaurant,-78.83899
+42.784,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4569904-Reviews-Mrs_Fields-Buffalo_New_York.html,Mrs. Fields,-78.81121
+42.91485,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4858202-Reviews-Ferry_Express_5-Buffalo_New_York.html,Ferry Express #5,-78.83879
+42.93744,,https://www.tripadvisor.com/Restaurant_Review-g60974-d409106-Reviews-Bona_Pizza-Buffalo_New_York.html,Bona Pizza,-78.813965
+42.968773,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4733189-Reviews-Hong_Kong_s_Cuisine-Buffalo_New_York.html,Hong Kong's Cuisine,-78.87098
+42.87965,,https://www.tripadvisor.com/Restaurant_Review-g60974-d409076-Reviews-Eddie_s_Carrie_s_Restaurant-Buffalo_New_York.html,Eddie's & Carrie's Restaurant,-78.84121
+42.87324,,https://www.tripadvisor.com/Restaurant_Review-g60974-d8262989-Reviews-Marinaro_s-Buffalo_New_York.html,Marinaro's,-78.851105
+42.90855,,https://www.tripadvisor.com/Restaurant_Review-g60974-d905724-Reviews-Jos_Howard_Jr_Restaurant-Buffalo_New_York.html,Jos Howard Jr Restaurant,-78.85968
+42.91082,,https://www.tripadvisor.com/Restaurant_Review-g60974-d905725-Reviews-Keith_s_Famous_BBQ-Buffalo_New_York.html,Keith's Famous BBQ,-78.86609
+42.84916,,https://www.tripadvisor.com/Restaurant_Review-g60974-d905732-Reviews-Portico_Restaurant-Buffalo_New_York.html,Portico Restaurant,-78.86227
+42.90899,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4855055-Reviews-Quickfire_Grille-Buffalo_New_York.html,Quickfire Grille,-78.76197
+42.9436,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5562951-Reviews-The_Green_Room-Buffalo_New_York.html,The Green Room,-78.906624
+42.94298,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5108133-Reviews-Pierce_Arrow_Bar_Grill-Buffalo_New_York.html,Pierce Arrow Bar & Grill,-78.87833
+42.94586,,https://www.tripadvisor.com/Restaurant_Review-g60974-d6594338-Reviews-R3_Red_Lounge-Buffalo_New_York.html,R3 Red Lounge,-78.89212
+42.85085,,https://www.tripadvisor.com/Restaurant_Review-g60974-d883393-Reviews-Gulino_s_Pizzeria-Buffalo_New_York.html,Gulino's Pizzeria,-78.80447
+42.98418,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4248831-Reviews-Subway-Buffalo_New_York.html,Subway,-78.696915
+42.90737,,https://www.tripadvisor.com/Restaurant_Review-g60974-d883396-Reviews-Quality_Bakery-Buffalo_New_York.html,Quality Bakery,-78.79012
+42.949345,,https://www.tripadvisor.com/Restaurant_Review-g60974-d8023685-Reviews-Boston_Market-Buffalo_New_York.html,Boston Market,-78.86917
+42.93409,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5051804-Reviews-Avenue_Pizza_Submarine-Buffalo_New_York.html,Avenue Pizza & Submarine,-78.813896
+42.959145,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5015320-Reviews-Pizza_Bella-Buffalo_New_York.html,Pizza Bella,-78.90834
+42.958256,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5104957-Reviews-Papa_John_s-Buffalo_New_York.html,Papa John's,-78.870026
+42.899456,,https://www.tripadvisor.com/Restaurant_Review-g60974-d10453983-Reviews-Billy_Club-Buffalo_New_York.html,Billy Club,-78.87854
+42.93512,,https://www.tripadvisor.com/Restaurant_Review-g60974-d884537-Reviews-Precious_Thoughts_Incorporated-Buffalo_New_York.html,Precious Thoughts Incorporated,-78.80091
+42.897118,,https://www.tripadvisor.com/Restaurant_Review-g60974-d7368708-Reviews-MADINA_HALAL_SWEETS_RESTAURANT-Buffalo_New_York.html,MADINA HALAL SWEETS & RESTAURANT,-78.83631
+42.8719,,https://www.tripadvisor.com/Restaurant_Review-g60974-d408650-Reviews-Desi_s_Pizzeria-Buffalo_New_York.html,Desi's Pizzeria,-78.80941
+,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5222725-Reviews-Elizabeth_house-Buffalo_New_York.html,,
+42.94773,,https://www.tripadvisor.com/Restaurant_Review-g60974-d408627-Reviews-Wiseguys_s_On_Hertel-Buffalo_New_York.html,Wiseguys's On Hertel,-78.8583
+42.96277,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4960098-Reviews-KFC-Buffalo_New_York.html,KFC,-78.8142
+42.931347,,https://www.tripadvisor.com/Restaurant_Review-g60974-d3717415-Reviews-Louie_s_Texas_Red_Hots-Buffalo_New_York.html,Louie's Texas Red Hots,-78.81319
+42.92797,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5053077-Reviews-House_of_China-Buffalo_New_York.html,House of China,-78.88958
+42.915028,,https://www.tripadvisor.com/Restaurant_Review-g60974-d3717404-Reviews-McDonald_s-Buffalo_New_York.html,McDonald's,-78.892555
+42.853607,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4892936-Reviews-Buffalo_s_Finest_Bar-Buffalo_New_York.html,Buffalo's Finest Bar,-78.80771
+42.921852,,https://www.tripadvisor.com/Restaurant_Review-g60974-d3717451-Reviews-McDonald_s-Buffalo_New_York.html,McDonald's,-78.82915
+43.001984,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5008263-Reviews-Three_Brothers_Burgers-Buffalo_New_York.html,Three Brothers Burgers,-78.78563
+42.857964,,https://www.tripadvisor.com/Restaurant_Review-g60974-d3717416-Reviews-McDonald_s-Buffalo_New_York.html,McDonald's,-78.82507
+42.898315,,https://www.tripadvisor.com/Restaurant_Review-g60974-d876356-Reviews-Vargas_Take_Out-Buffalo_New_York.html,Vargas Take Out,-78.884285
+42.991776,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5264509-Reviews-Audubon_Grill-Buffalo_New_York.html,Audubon Grill,-78.767296
+42.89069,,https://www.tripadvisor.com/Restaurant_Review-g60974-d882831-Reviews-Nowak_s_Tavern-Buffalo_New_York.html,Nowak's Tavern,-78.79436
+42.88139,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4415788-Reviews-Waterline_Cafe-Buffalo_New_York.html,Waterline Cafe,-78.88271
+42.878017,,https://www.tripadvisor.com/Restaurant_Review-g60974-d408856-Reviews-Harborview_Market_Deli-Buffalo_New_York.html,Harborview Market & Deli,-78.880226
+42.972588,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5053221-Reviews-China_Max_Wok-Buffalo_New_York.html,China Max Wok,-78.82282
+42.94747,,https://www.tripadvisor.com/Restaurant_Review-g60974-d7993501-Reviews-La_Pizza_Club-Buffalo_New_York.html,La Pizza Club,-78.852005
+42.89246,,https://www.tripadvisor.com/Restaurant_Review-g60974-d408825-Reviews-Vinny_s_Sports_City_Bar-Buffalo_New_York.html,Vinny's Sports City Bar,-78.8736
+42.899704,,https://www.tripadvisor.com/Restaurant_Review-g60974-d408854-Reviews-Hollywood_Pastas_Deli-Buffalo_New_York.html,Hollywood Pastas & Deli,-78.8736
+,,https://www.tripadvisor.com/Restaurant_Review-g60974-d10375699-Reviews-Checkers-Buffalo_New_York.html,,
+42.933857,,https://www.tripadvisor.com/Restaurant_Review-g60974-d8601240-Reviews-Argo_Tea-Buffalo_New_York.html,Argo Tea,-78.88007
+42.83272,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4517359-Reviews-Chuckies_Texas_Red_Hots_Express-Buffalo_New_York.html,Chuckies Texas Red Hots Express,-78.82389
+42.89071,,https://www.tripadvisor.com/Restaurant_Review-g60974-d840335-Reviews-Chowbella_s_Gourmet_Deli-Buffalo_New_York.html,Chowbella's Gourmet Deli,-78.878395
+42.957233,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4139493-Reviews-Louie_s_Texas_Red_Hots-Buffalo_New_York.html,Louie's Texas Red Hots,-78.819786
+42.940815,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4649685-Reviews-China_Jade_Chinese_Take_Out_Restaurant-Buffalo_New_York.html,China Jade Chinese Take Out Restaurant,-78.813995
+42.832787,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4840932-Reviews-J_moke_Sandwiches-Buffalo_New_York.html,J'moke Sandwiches,-78.82367
+42.887405,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5544995-Reviews-Father_Sam_s_Syrian_Bread-Buffalo_New_York.html,Father Sam's Syrian Bread,-78.82214
+42.890755,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5504135-Reviews-Subway-Buffalo_New_York.html,Subway,-78.881836
+42.96657,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5007676-Reviews-Sister_Sweets-Buffalo_New_York.html,Sister Sweets,-78.69369
+42.940125,,https://www.tripadvisor.com/Restaurant_Review-g60974-d906270-Reviews-Tasty_Foods_Pizzeria_Ctrng-Buffalo_New_York.html,Tasty Foods Pizzeria & Ctrng,-78.878654
+42.89213,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5007709-Reviews-Rens_Spot-Buffalo_New_York.html,Rens Spot,-78.83973
+42.927765,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4821908-Reviews-Zonies-Buffalo_New_York.html,Zonies,-78.877365
+42.93744,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4421366-Reviews-Captain_of_the_Sea-Buffalo_New_York.html,Captain of the Sea,-78.813965
+42.8928,,https://www.tripadvisor.com/Restaurant_Review-g60974-d7994146-Reviews-Tim_Hortons-Buffalo_New_York.html,Tim Hortons,-78.74451
+42.872837,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4930923-Reviews-Malamute_Tavern-Buffalo_New_York.html,Malamute Tavern,-78.87163
+42.92187,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4254129-Reviews-KFC-Buffalo_New_York.html,KFC,-78.83968
+42.945274,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4949158-Reviews-Babas_Place-Buffalo_New_York.html,Babas Place,-78.81339
+42.89826,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4275743-Reviews-Destini_s_Pizzeria-Buffalo_New_York.html,Destini's Pizzeria,-78.87028
+42.91451,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4249139-Reviews-Subway-Buffalo_New_York.html,Subway,-78.82972
+42.95487,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4280181-Reviews-Wendy_s-Buffalo_New_York.html,Wendy's,-78.82179
+42.940754,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4929948-Reviews-Stop_Inn-Buffalo_New_York.html,Stop Inn,-78.805916
+42.905067,,https://www.tripadvisor.com/Restaurant_Review-g60974-d408913-Reviews-Armory_Restaurant-Buffalo_New_York.html,Armory Restaurant,-78.88926
+42.87194,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4712214-Reviews-McDonald_s-Buffalo_New_York.html,McDonald's,-78.7937
+42.990723,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5085707-Reviews-Dunkin_Donuts-Buffalo_New_York.html,Dunkin' Donuts,-78.76042
+42.93354,,https://www.tripadvisor.com/Restaurant_Review-g60974-d8507869-Reviews-Caribbean_Experience-Buffalo_New_York.html,Caribbean Experience,-78.81336
+42.893406,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4340768-Reviews-East_West_Cafe-Buffalo_New_York.html,East West Cafe,-78.8374
+42.94795,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5109508-Reviews-At_Eleven-Buffalo_New_York.html,At Eleven,-78.82897
+42.9506,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5212410-Reviews-Slice_Of_Italy-Buffalo_New_York.html,Slice Of Italy,-78.82662
+42.95146,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4247895-Reviews-Panda-Buffalo_New_York.html,Panda,-78.90477
+42.85012,,https://www.tripadvisor.com/Restaurant_Review-g60974-d881631-Reviews-Tom_Mullen_s_Restaurant-Buffalo_New_York.html,Tom Mullen's Restaurant,-78.82407
+42.94215,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5555835-Reviews-Manhattan_Bagel_Bagel_Bros_Division-Buffalo_New_York.html,Manhattan Bagel Bagel Bros Division,-78.868675
+42.988583,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4821350-Reviews-Pretzel_Maker-Buffalo_New_York.html,Pretzel Maker,-78.822525
+42.84387,,https://www.tripadvisor.com/Restaurant_Review-g60974-d884538-Reviews-Gotti_s_Pizza-Buffalo_New_York.html,Gotti's Pizza,-78.7924
+42.886734,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5493958-Reviews-Electric_Avenue_Cafe-Buffalo_New_York.html,Electric Avenue Cafe,-78.87183
+42.89341,,https://www.tripadvisor.com/Restaurant_Review-g60974-d2659288-Reviews-Sinful_Restaurant-Buffalo_New_York.html,Sinful Restaurant,-78.8759
+42.90899,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5593254-Reviews-Pretzel_Time-Buffalo_New_York.html,Pretzel Time,-78.76197
+42.89226,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5453465-Reviews-Louie_s_Texas_Red_Hots-Buffalo_New_York.html,Louie's Texas Red Hots,-78.83864
+42.94812,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4836274-Reviews-F_Bites-Buffalo_New_York.html,F-Bites,-78.87358
+42.97535,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4990467-Reviews-Blue_Martini_Bar-Buffalo_New_York.html,Blue Martini Bar,-78.7396
+42.92734,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4250601-Reviews-Subway-Buffalo_New_York.html,Subway,-78.8292
+42.847553,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5086519-Reviews-Subway-Buffalo_New_York.html,Subway,-78.83199
+42.877415,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4984031-Reviews-Smokey_s_Tavern-Buffalo_New_York.html,Smokey's Tavern,-78.84585
+42.92549,,https://www.tripadvisor.com/Restaurant_Review-g60974-d887399-Reviews-Crabapples-Buffalo_New_York.html,Crabapples,-78.76329
+42.840385,,https://www.tripadvisor.com/Restaurant_Review-g60974-d2424857-Reviews-Cheers-Buffalo_New_York.html,Cheers,-78.772194
+42.945087,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5064167-Reviews-Tokoy_II_Corp-Buffalo_New_York.html,Tokoy II Corp,-78.86822
+42.85655,,https://www.tripadvisor.com/Restaurant_Review-g60974-d828270-Reviews-Dottie_s_Pub_Incorporated-Buffalo_New_York.html,Dottie's Pub Incorporated,-78.81114
+42.88809,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4984180-Reviews-Arty_s-Buffalo_New_York.html,Arty's,-78.835464
+42.88576,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4734259-Reviews-Downtown_Steakhouse-Buffalo_New_York.html,Downtown Steakhouse,-78.85395
+42.892757,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4939272-Reviews-Hot_Spot-Buffalo_New_York.html,Hot Spot,-78.83893
+42.890617,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4729426-Reviews-Barcelona_On_Pearl-Buffalo_New_York.html,Barcelona On Pearl,-78.87399
+42.784,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4711160-Reviews-Planet_Smoothie-Buffalo_New_York.html,Planet Smoothie,-78.81121
+42.871967,,https://www.tripadvisor.com/Restaurant_Review-g60974-d9752551-Reviews-Pizza_By_Molino_s-Buffalo_New_York.html,Pizza By Molino's,-78.80353
+43.00056,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4478116-Reviews-Aman_s_Family_Restaurant-Buffalo_New_York.html,Aman's Family Restaurant,-78.740974
+42.89158,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5099584-Reviews-Subatino_s_Pizzeria-Buffalo_New_York.html,Subatino's Pizzeria,-78.84444
+42.92272,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4257137-Reviews-Steak_Out-Buffalo_New_York.html,Steak-Out,-78.80653
+42.920612,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4983694-Reviews-Night_Owl_Tavern-Buffalo_New_York.html,Night Owl Tavern,-78.81369
+42.927982,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5089924-Reviews-Puerto_Rican_Bakery_Restaurant-Buffalo_New_York.html,Puerto Rican Bakery & Restaurant,-78.89105
+42.948376,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5089388-Reviews-Jp_Express-Buffalo_New_York.html,Jp Express,-78.868576
+42.913292,,https://www.tripadvisor.com/Restaurant_Review-g60974-d10282031-Reviews-Essex_St_Pub-Buffalo_New_York.html,Essex St. Pub,-78.88274
+42.958164,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5082810-Reviews-McDonald_s-Buffalo_New_York.html,McDonald's,-78.8173
+42.91551,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4154327-Reviews-Prime_Steakhouse-Buffalo_New_York.html,Prime Steakhouse,-78.76472
+42.838585,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5031927-Reviews-Uncle_Pudgies-Buffalo_New_York.html,Uncle Pudgies,-78.75628
+42.96492,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5084947-Reviews-Harris_Hill_Inn-Buffalo_New_York.html,Harris Hill Inn,-78.672775
+42.958687,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5081714-Reviews-Panzarella_s_Pizzeria-Buffalo_New_York.html,Panzarella's Pizzeria,-78.84344
+42.851917,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5013985-Reviews-B_W_S_Barbecue_Express-Buffalo_New_York.html,B W S Barbecue Express,-78.698265
+42.832787,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4986050-Reviews-Gino_s_NY_Pizza_II-Buffalo_New_York.html,Gino's NY Pizza II,-78.82367
+42.991127,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5109758-Reviews-Kfc-Buffalo_New_York.html,Kfc,-78.69696
+42.894707,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4958115-Reviews-Golden_Garden-Buffalo_New_York.html,Golden Garden,-78.828
+42.88485,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4279316-Reviews-Subway-Buffalo_New_York.html,Subway,-78.82344
+42.89948,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4918892-Reviews-Spirits_of_Allentown-Buffalo_New_York.html,Spirits of Allentown,-78.87932
+42.876003,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4843071-Reviews-Square_1_Sandwiches-Buffalo_New_York.html,Square 1 Sandwiches,-78.84944
+42.79029,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4416505-Reviews-Hatzinerantzis_Athanasios-Buffalo_New_York.html,Hatzinerantzis Athanasios,-78.82384
+42.95315,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4715287-Reviews-McDonald_s-Buffalo_New_York.html,McDonald's,-78.87829
+42.909615,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4977937-Reviews-Master_Pizza-Buffalo_New_York.html,Master Pizza,-78.813866
+42.958088,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4365428-Reviews-Wendy_s-Buffalo_New_York.html,Wendy's,-78.87967
+42.784,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4355414-Reviews-Cedar_s_Pita_Pockets-Buffalo_New_York.html,Cedar's Pita Pockets,-78.81121
+42.846134,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4658001-Reviews-Hop_Inn-Buffalo_New_York.html,Hop Inn,-78.83211
+42.878826,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5064848-Reviews-Famous_Corner_Pizzeria-Buffalo_New_York.html,Famous Corner Pizzeria,-78.86198
+42.95735,,https://www.tripadvisor.com/Restaurant_Review-g60974-d884532-Reviews-Cago_Coffee_Co-Buffalo_New_York.html,Cago Coffee Co,-78.87791
+42.889107,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5209000-Reviews-Sizzle_Box-Buffalo_New_York.html,Sizzle Box,-78.87724
+42.89118,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4989441-Reviews-The_Purple_Monkey-Buffalo_New_York.html,The Purple Monkey,-78.87661
+42.943264,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4821560-Reviews-Subway-Buffalo_New_York.html,Subway,-78.86885
+43.045,,https://www.tripadvisor.com/Restaurant_Review-g60974-d449469-Reviews-Bubble_T-Buffalo_New_York.html,Bubble T,-78.80148
+,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4920664-Reviews-The_Picnic_Grille-Buffalo_New_York.html,,
+42.85395,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5104543-Reviews-Green_Valley_Grill-Buffalo_New_York.html,Green Valley Grill,-78.807365
+42.917416,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4543453-Reviews-Jazzy_s-Buffalo_New_York.html,Jazzy's,-78.80113
+42.964745,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5075072-Reviews-Subway-Buffalo_New_York.html,Subway,-78.695656
+42.91868,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4790081-Reviews-Sir_Ben_s_Pizza-Buffalo_New_York.html,Sir Ben's Pizza,-78.896736
+42.929665,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4815209-Reviews-Commons_Cafe-Buffalo_New_York.html,Commons Cafe,-78.85497
+42.924347,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4662004-Reviews-E_M_Tea_Coffee_Cup_Cafe-Buffalo_New_York.html,E M Tea Coffee Cup Cafe,-78.84669
+42.87968,,https://www.tripadvisor.com/Restaurant_Review-g60974-d879189-Reviews-Bread_Fellowship_Prayer_Line-Buffalo_New_York.html,Bread-Fellowship Prayer Line,-78.84138
+42.94733,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5803984-Reviews-Hertel_Lounge-Buffalo_New_York.html,Hertel Lounge,-78.84625
+42.84838,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4460244-Reviews-Subway-Buffalo_New_York.html,Subway,-78.81252
+,,https://www.tripadvisor.com/Restaurant_Review-g60974-d7609656-Reviews-Nana_Amma_s_Vegan_Ghana_Kitchen-Buffalo_New_York.html,,
+42.912025,,https://www.tripadvisor.com/Restaurant_Review-g60974-d8656191-Reviews-Johnny_s_Burger_Factory-Buffalo_New_York.html,Johnny's Burger Factory,-78.76344
+42.89898,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5562111-Reviews-Golden_Cup_Cafe_Coffee_Rstrs-Buffalo_New_York.html,Golden Cup Cafe & Coffee Rstrs,-78.85376
+42.785892,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5533297-Reviews-Original_Buffalo_Char_Grill-Buffalo_New_York.html,Original Buffalo Char-Grill,-78.80831
+42.96162,,https://www.tripadvisor.com/Restaurant_Review-g60974-d824878-Reviews-Marc_Anthony_s_Restaurant-Buffalo_New_York.html,Marc Anthony's Restaurant,-78.84158
+42.90683,,https://www.tripadvisor.com/Restaurant_Review-g60974-d3717228-Reviews-Subway-Buffalo_New_York.html,Subway,-78.77696
+42.919758,,https://www.tripadvisor.com/Restaurant_Review-g60974-d408946-Reviews-Rafferty_s_Irish_Pub-Buffalo_New_York.html,Rafferty's Irish Pub,-78.78453
+42.905857,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4825487-Reviews-Press_Raw_Food_Juice-Buffalo_New_York.html,Press Raw Food & Juice,-78.88823
+42.91874,,https://www.tripadvisor.com/Restaurant_Review-g60974-d408953-Reviews-Avenue_Pizza_Submarine_Take-Buffalo_New_York.html,Avenue Pizza & Submarine Take,-78.79821
+42.909283,,https://www.tripadvisor.com/Restaurant_Review-g60974-d879832-Reviews-Easy_Z_Wok-Buffalo_New_York.html,Easy Z Wok,-78.76183
+42.78418,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4617749-Reviews-Sbarro-Buffalo_New_York.html,Sbarro,-78.8101
+42.782204,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4989322-Reviews-A_L_s_Bakery-Buffalo_New_York.html,A L's Bakery,-78.82343
+42.87937,,https://www.tripadvisor.com/Restaurant_Review-g60974-d409073-Reviews-Paisano_s_Pizza-Buffalo_New_York.html,Paisano's Pizza,-78.839615
+42.90671,,https://www.tripadvisor.com/Restaurant_Review-g60974-d875614-Reviews-Theo_s_Place-Buffalo_New_York.html,Theo's Place,-78.89726
+42.94777,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5223083-Reviews-Almultaga_Hookah-Buffalo_New_York.html,Almultaga Hookah,-78.86155
+42.942993,,https://www.tripadvisor.com/Restaurant_Review-g60974-d3717584-Reviews-Tony_s_Pizzeria-Buffalo_New_York.html,Tony's Pizzeria,-78.900604
+42.87268,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5098634-Reviews-Tim_Hortons-Buffalo_New_York.html,Tim Hortons,-78.81919
+42.94929,,https://www.tripadvisor.com/Restaurant_Review-g60974-d842035-Reviews-Doctor_Bird_Incorporated-Buffalo_New_York.html,Doctor Bird Incorporated,-78.82808
+42.907997,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4944906-Reviews-Lee_s_Lounge-Buffalo_New_York.html,Lee's Lounge,-78.83865
+42.89714,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4278671-Reviews-Herman_Steakhouse-Buffalo_New_York.html,Herman Steakhouse,-78.83663
+42.910393,,https://www.tripadvisor.com/Restaurant_Review-g60974-d10482936-Reviews-Thin_Man_Brewery-Buffalo_New_York.html,Thin Man Brewery,-78.87741
+42.94754,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4883621-Reviews-Colonie_Lounge-Buffalo_New_York.html,Colonie Lounge,-78.84136
+42.85691,,https://www.tripadvisor.com/Restaurant_Review-g60974-d906267-Reviews-Smitty_s_South_Buffalo_Deli-Buffalo_New_York.html,Smitty's South Buffalo Deli,-78.82833
+42.938038,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4275531-Reviews-No_1_Kitchen-Buffalo_New_York.html,No 1 Kitchen,-78.89042
+42.884983,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4717881-Reviews-McDonald_s-Buffalo_New_York.html,McDonald's,-78.854256
+42.92195,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5031808-Reviews-Pan_s_Garden-Buffalo_New_York.html,Pan's Garden,-78.85825
+42.91511,,https://www.tripadvisor.com/Restaurant_Review-g60974-d905730-Reviews-Cruisin_Chicken-Buffalo_New_York.html,Cruisin Chicken,-78.85453
+42.938744,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4650694-Reviews-Taste_of_Soul-Buffalo_New_York.html,Taste of Soul,-78.83901
+42.856155,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5223372-Reviews-Taco_Bell-Buffalo_New_York.html,Taco Bell,-78.82269
+42.946793,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5099131-Reviews-Parker_Hertel_Sweet_Shop-Buffalo_New_York.html,Parker Hertel Sweet Shop,-78.838974
+42.830994,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4660985-Reviews-McDonald_s-Buffalo_New_York.html,McDonald's,-78.80385
+42.885128,,https://www.tripadvisor.com/Restaurant_Review-g60974-d4874944-Reviews-Rolack_Seafood-Buffalo_New_York.html,Rolack Seafood,-78.85001
+42.85955,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5483500-Reviews-Mighty_Taco-Buffalo_New_York.html,Mighty Taco,-78.82496
+42.86878,,https://www.tripadvisor.com/Restaurant_Review-g60974-d5480332-Reviews-Holly_Street_Cafe-Buffalo_New_York.html,Holly Street Cafe,-78.80423
+42.85104,2.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d10458615-Reviews-Charlie_s_Boat_Yard-Buffalo_New_York.html,Charlie's Boat Yard,-78.86439
+42.932896,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d10478376-Reviews-Thai_Me_Up_Food_Truck-Buffalo_New_York.html,Thai Me Up Food Truck,-78.725266
+42.86987,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d10452241-Reviews-Buffalo_Riverworks-Buffalo_New_York.html,Buffalo Riverworks,-78.87268
+42.912025,2.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3600353-Reviews-Yogen_Fruz-Buffalo_New_York.html,Yogen Fruz,-78.76344
+42.95926,2.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d3830284-Reviews-Jimmy_John_s-Buffalo_New_York.html,Jimmy John's,-78.81774
+42.89492,2.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d827443-Reviews-McDonald_s-Buffalo_New_York.html,McDonald's,-78.88619
+42.947536,2.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5494008-Reviews-Zips_Pizzeria-Buffalo_New_York.html,Zips Pizzeria,-78.8585
+42.911453,2.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4246037-Reviews-Milkie_s_on_Elmwood-Buffalo_New_York.html,Milkie's on Elmwood.,-78.87738
+42.91529,2.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d409068-Reviews-Albert_s_Family_Restaurant-Buffalo_New_York.html,Albert's Family Restaurant,-78.89058
+42.93955,2.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d6171396-Reviews-Popeye_s_Chicken-Buffalo_New_York.html,Popeye's Chicken,-78.86754
+42.87772,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d787244-Reviews-El_Canelo_Restaurant-Buffalo_New_York.html,El Canelo Restaurant,-78.79925
+42.897987,2.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408917-Reviews-Panda_Restaurant-Buffalo_New_York.html,Panda Restaurant,-78.88905
+42.903454,2.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d5065829-Reviews-Burger_King-Buffalo_New_York.html,Burger King,-78.78263
+42.979595,2.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4679805-Reviews-Partners_Pizzeria-Buffalo_New_York.html,Partners Pizzeria,-78.82355
+42.85678,2.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d3830312-Reviews-Francesca_s_Ristorante-Buffalo_New_York.html,Francesca's Ristorante,-78.810936
+42.83232,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4884036-Reviews-Abbott_Pizza-Buffalo_New_York.html,Abbott Pizza,-78.8062
+42.890625,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d10086817-Reviews-Sun_Roll-Buffalo_New_York.html,Sun Roll,-78.87218
+42.915493,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4250983-Reviews-Taco_Bell-Buffalo_New_York.html,Taco Bell,-78.754745
+42.90072,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4277652-Reviews-Burger_King-Buffalo_New_York.html,Burger King,-78.89447
+42.97099,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4635618-Reviews-China_Panda-Buffalo_New_York.html,China Panda,-78.69684
+42.883347,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4518726-Reviews-Zj_s_Family_Restaurant-Buffalo_New_York.html,Zj's Family Restaurant,-78.863976
+42.958344,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4014139-Reviews-Pepe_s_Pizzeria-Buffalo_New_York.html,Pepe's Pizzeria,-78.858734
+42.88988,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4247784-Reviews-House_of_China-Buffalo_New_York.html,House of China,-78.85371
+42.875805,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5110804-Reviews-Larkin_Street_Cafe-Buffalo_New_York.html,Larkin Street Cafe,-78.85165
+42.887794,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408847-Reviews-Fera_s_On_Franklin-Buffalo_New_York.html,Fera's On Franklin,-78.876045
+42.94779,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4251441-Reviews-Burger_King-Buffalo_New_York.html,Burger King,-78.86798
+42.931633,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4653138-Reviews-Tony_s_Ranch_House-Buffalo_New_York.html,Tony's Ranch House,-78.84692
+42.88241,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4399542-Reviews-Subway-Buffalo_New_York.html,Subway,-78.87546
+42.88998,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5059134-Reviews-Carbone_s_Pizzeria-Buffalo_New_York.html,Carbone's Pizzeria,-78.80654
+42.79708,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408965-Reviews-China_King_Restaurant-Buffalo_New_York.html,China King Restaurant,-78.81953
+42.788143,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d3442141-Reviews-Red_Lobster-Buffalo_New_York.html,Red Lobster,-78.80881
+42.87949,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d659388-Reviews-Templeton_Landing-Buffalo_New_York.html,Templeton Landing,-78.88493
+42.97957,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d2758736-Reviews-GIN_GIN_CHINESE_RESTAURANT-Buffalo_New_York.html,GIN GIN CHINESE RESTAURANT,-78.80814
+,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d5010848-Reviews-Pizza_Hut-Buffalo_New_York.html,,
+42.94793,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d6415487-Reviews-Globe_Market_To_Go-Buffalo_New_York.html,Globe Market To Go,-78.8555
+42.92458,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4293777-Reviews-Firefly_Cupcakes-Buffalo_New_York.html,Firefly Cupcakes,-78.877304
+42.850983,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d1148102-Reviews-Dug_s_Dive-Buffalo_New_York.html,Dug's Dive,-78.86437
+42.8882,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408749-Reviews-Tap_Room-Buffalo_New_York.html,Tap Room,-78.87477
+42.92625,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4958147-Reviews-Vasilis_Express-Buffalo_New_York.html,Vasilis Express,-78.8773
+42.885178,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d883951-Reviews-Hot_Dog_Heaven-Buffalo_New_York.html,Hot Dog Heaven,-78.78427
+42.90497,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408931-Reviews-Just_Pizza-Buffalo_New_York.html,Just Pizza,-78.87713
+42.829185,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d5455804-Reviews-Nut_Tos_Peanut_and_Popcorn_Supl_Co-Buffalo_New_York.html,Nut-Tos Peanut and Popcorn Supl Co.,-78.76265
+42.93955,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3913778-Reviews-Frank_s_a_Little_Bit_of_Italy-Buffalo_New_York.html,Frank's a Little Bit of Italy,-78.86754
+42.94802,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4467829-Reviews-Just_Pizza-Buffalo_New_York.html,Just Pizza,-78.86854
+42.97854,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d908831-Reviews-Original_Soup_Man-Buffalo_New_York.html,Original Soup Man,-78.73867
+42.962597,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d409177-Reviews-Loughran_s_Club_Restaurant-Buffalo_New_York.html,Loughran's Club & Restaurant,-78.78214
+42.913406,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d1220098-Reviews-Essex_Pub-Buffalo_New_York.html,Essex Pub,-78.88287
+42.85029,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d8633740-Reviews-Doc_Sullivan_s-Buffalo_New_York.html,Doc Sullivan's,-78.81478
+42.918907,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d7741646-Reviews-Breadhive_Cooperative_Bakery-Buffalo_New_York.html,Breadhive Cooperative Bakery,-78.88557
+42.91753,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4280365-Reviews-China_Express-Buffalo_New_York.html,China Express,-78.75418
+42.96687,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d409281-Reviews-Old_Country_Buffet-Buffalo_New_York.html,Old Country Buffet,-78.6946
+42.784,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4617254-Reviews-Chee_Burger_Chee_Burger-Buffalo_New_York.html,Chee Burger Chee Burger,-78.81121
+42.93589,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d828267-Reviews-Angie_s_Pizza_House-Buffalo_New_York.html,Angie's Pizza House,-78.90294
+42.82727,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408971-Reviews-Denny_s-Buffalo_New_York.html,Denny's,-78.78255
+42.88137,3.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408677-Reviews-Pettibones_Grille-Buffalo_New_York.html,Pettibones Grille,-78.87465
+42.99692,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4871017-Reviews-Just_Pizza-Buffalo_New_York.html,Just Pizza,-78.69582
+42.90421,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d881038-Reviews-MS_Goodies-Buffalo_New_York.html,MS Goodies,-78.81379
+42.89167,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d7209589-Reviews-Chennai_Express-Buffalo_New_York.html,Chennai Express,-78.87399
+42.88796,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4659595-Reviews-New_Dragon_Express-Buffalo_New_York.html,New Dragon Express,-78.87364
+42.87405,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4726875-Reviews-Trina_s_Family_Restaurant-Buffalo_New_York.html,Trina's Family Restaurant,-78.82518
+42.78978,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4249419-Reviews-Subway-Buffalo_New_York.html,Subway,-78.81382
+42.95592,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4814192-Reviews-Papa_John_s-Buffalo_New_York.html,Papa John's,-78.69635
+42.94017,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4682059-Reviews-Rohall_s_Corner-Buffalo_New_York.html,Rohall's Corner,-78.88455
+42.89185,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4944740-Reviews-Underground_Nightclub-Buffalo_New_York.html,Underground Nightclub,-78.87667
+42.95805,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d409098-Reviews-Pat_s_Pizzeria-Buffalo_New_York.html,Pat's Pizzeria,-78.89601
+42.9786,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4246506-Reviews-Subway-Buffalo_New_York.html,Subway,-78.78522
+42.886227,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d6539927-Reviews-Courtyard_Restaurant-Buffalo_New_York.html,Courtyard Restaurant,-78.87651
+42.96364,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4983773-Reviews-Brunner_s_Tavern-Buffalo_New_York.html,Brunner's Tavern,-78.8023
+42.95124,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4842296-Reviews-Kalypso_Restaurant-Buffalo_New_York.html,Kalypso Restaurant,-78.82513
+42.890625,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d10021589-Reviews-Mercato-Buffalo_New_York.html,Mercato,-78.87218
+42.84801,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d889037-Reviews-Hot_Dog_Heavan-Buffalo_New_York.html,Hot Dog Heavan,-78.80114
+42.886295,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d6786744-Reviews-Perk_s-Buffalo_New_York.html,Perk's,-78.87155
+42.981274,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4955741-Reviews-Jim_s_Steakout-Buffalo_New_York.html,Jim's Steakout,-78.85327
+42.914974,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d847480-Reviews-Gigi_s_Restaurant-Buffalo_New_York.html,Gigi's Restaurant,-78.85472
+42.912025,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d5593926-Reviews-Subway-Buffalo_New_York.html,Subway,-78.76344
+42.949936,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d445551-Reviews-The_Steer_Restaurant_and_Saloon-Buffalo_New_York.html,The Steer Restaurant and Saloon,-78.82692
+,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d10195911-Reviews-Gourm_Asian_Bistro_Food_Truck-Buffalo_New_York.html,,
+42.915234,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d8428434-Reviews-La_Gourmet_Empanadas-Buffalo_New_York.html,La Gourmet Empanadas,-78.89248
+42.890633,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d10194021-Reviews-Tavern_414-Buffalo_New_York.html,Tavern 414,-78.873985
+42.95552,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d5018349-Reviews-Five_Guys-Buffalo_New_York.html,Five Guys,-78.86924
+43.043003,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4974618-Reviews-Audubon_Restaurant_North-Buffalo_New_York.html,Audubon Restaurant North,-78.800224
+42.771362,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5093944-Reviews-Fuji_Grill_II-Buffalo_New_York.html,Fuji Grill II,-78.81052
+42.91833,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d7046512-Reviews-Resurgence_Brewing_Company-Buffalo_New_York.html,Resurgence Brewing Company,-78.89954
+42.93694,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d7289521-Reviews-Hot_Mama_s_Canteen-Buffalo_New_York.html,Hot Mama's Canteen,-78.89351
+42.87372,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d2082607-Reviews-Cobblestone_Bar_and_Nightclub-Buffalo_New_York.html,Cobblestone Bar and Nightclub,-78.87442
+42.857677,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4515268-Reviews-Wise_Guys_Pizza-Buffalo_New_York.html,Wise Guys Pizza,-78.81271
+42.855095,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d7297508-Reviews-Valle_of_Mexico-Buffalo_New_York.html,Valle of Mexico,-78.827515
+42.900402,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d877059-Reviews-Custard_Corner-Buffalo_New_York.html,Custard Corner,-78.89393
+42.910267,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4635606-Reviews-Boomerang_s_Bar_Grill-Buffalo_New_York.html,Boomerang's Bar & Grill,-78.90001
+42.94771,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4353312-Reviews-La_Tavola_Trattoria-Buffalo_New_York.html,La Tavola Trattoria,-78.85405
+42.885212,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408858-Reviews-Zestos-Buffalo_New_York.html,Zestos,-78.874535
+42.91692,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d1225580-Reviews-Wasabi-Buffalo_New_York.html,Wasabi,-78.87703
+42.939423,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d855822-Reviews-Viking_Lobster_Co-Buffalo_New_York.html,Viking Lobster Co,-78.89869
+42.91489,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d6418984-Reviews-West_Side_Bazaar-Buffalo_New_York.html,West Side Bazaar,-78.89036
+,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d5096373-Reviews-Dibella_s_Old_Fashion_Submari-Buffalo_New_York.html,,
+42.899647,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5032418-Reviews-Duke_s_Bohemian_Grove_Bar-Buffalo_New_York.html,Duke's Bohemian Grove Bar,-78.879654
+42.992004,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d2557492-Reviews-The_Library-Buffalo_New_York.html,The Library,-78.80504
+42.87759,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d828271-Reviews-Dingen_s_Bar_Grill-Buffalo_New_York.html,Dingen's Bar & Grill,-78.79448
+42.84002,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4948007-Reviews-Mineo_s_South_Pizzeria-Buffalo_New_York.html,Mineo's South Pizzeria,-78.82353
+42.888096,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408897-Reviews-Washington_street_market-Buffalo_New_York.html,washington street market,-78.87222
+42.9529,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d805256-Reviews-Ming_Cafe-Buffalo_New_York.html,Ming Cafe,-78.824356
+42.891373,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d445548-Reviews-Bijou_Grille-Buffalo_New_York.html,Bijou Grille,-78.87242
+42.947586,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d3323209-Reviews-Shish_Kebab_Express-Buffalo_New_York.html,Shish Kebab Express,-78.86353
+42.8805,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d7230391-Reviews-HandleBar-Buffalo_New_York.html,HandleBar,-78.87003
+42.94787,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d5421657-Reviews-Salumeria_Belsito-Buffalo_New_York.html,Salumeria Belsito,-78.857254
+42.8488,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d1769969-Reviews-Apollo_Restaurant-Buffalo_New_York.html,Apollo Restaurant,-78.83189
+42.919373,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4840379-Reviews-Freddy_J_s_BBQ-Buffalo_New_York.html,Freddy J's BBQ,-78.89019
+42.92457,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408943-Reviews-Maybacks_Food_Shoppe-Buffalo_New_York.html,Maybacks Food Shoppe,-78.7724
+42.881516,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d6106962-Reviews-The_Archer-Buffalo_New_York.html,The Archer,-78.8761
+42.96031,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d409132-Reviews-Jovi_s_Italian_Grille_Bistro-Buffalo_New_York.html,Jovi's Italian Grille & Bistro,-78.86975
+42.89642,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d1637159-Reviews-Snooty_Fox_Lounge-Buffalo_New_York.html,Snooty Fox Lounge,-78.87492
+42.890114,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408654-Reviews-TGI_Friday_s-Buffalo_New_York.html,TGI Friday's,-78.87216
+42.88513,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d5493995-Reviews-Rainbow_Deli-Buffalo_New_York.html,Rainbow Deli,-78.874565
+42.91523,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d409067-Reviews-Wah_Sing_Restaurant-Buffalo_New_York.html,Wah Sing Restaurant,-78.89284
+42.94815,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d518189-Reviews-Louie_s_Texas_Red_Hots-Buffalo_New_York.html,Louie's Texas Red Hots,-78.86896
+42.96895,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d409141-Reviews-Big_John_s_Pasta_House-Buffalo_New_York.html,Big John's Pasta House,-78.82342
+42.87775,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d828269-Reviews-Major_Cool_Off-Buffalo_New_York.html,Major Cool Off,-78.80208
+42.892426,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d2136917-Reviews-Bambino_Bar_Kitchen-Buffalo_New_York.html,Bambino Bar & Kitchen,-78.87421
+42.827324,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4812192-Reviews-R_R_Bbq-Buffalo_New_York.html,R&R Bbq,-78.696365
+43.005444,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3162686-Reviews-Westby_s_bar_Eatery-Buffalo_New_York.html,Westby's bar & Eatery,-78.82242
+42.94623,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4290115-Reviews-Mike_s_American_and_Ethiopian_Cuisine-Buffalo_New_York.html,Mike's American and Ethiopian Cuisine,-78.81366
+42.837376,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5081891-Reviews-Leos_South_Park_Pizza-Buffalo_New_York.html,Leos South Park Pizza,-78.824295
+42.78925,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3716827-Reviews-Wendy_s-Buffalo_New_York.html,Wendy's,-78.81108
+42.900654,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d10344094-Reviews-Tipico-Buffalo_New_York.html,Tipico,-78.888466
+42.972424,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d10257630-Reviews-Shawrma_city-Buffalo_New_York.html,Shawrma city,-78.82327
+42.958656,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5084494-Reviews-Noco_Nickel_City_Cafe-Buffalo_New_York.html,Noco Nickel City Cafe,-78.8379
+42.85971,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4649600-Reviews-Emergency_Pizza-Buffalo_New_York.html,Emergency Pizza,-78.815155
+42.88488,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4245696-Reviews-Fontana_s_Ogden_Restaurant-Buffalo_New_York.html,Fontana's Ogden Restaurant,-78.80316
+42.99131,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4662124-Reviews-Wendy_s-Buffalo_New_York.html,Wendy's,-78.81304
+,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4764625-Reviews-Sean_Colin_s_Irish_Pub-Buffalo_New_York.html,,
+42.91489,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d8497170-Reviews-Abyssinia_Ethiopian_Cuisine-Buffalo_New_York.html,Abyssinia Ethiopian Cuisine,-78.89036
+42.905056,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5540811-Reviews-Bonnetis_Pizza-Buffalo_New_York.html,Bonnetis Pizza,-78.810295
+42.94977,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4826715-Reviews-Nette_s_Fried_Chicken-Buffalo_New_York.html,Nette's Fried Chicken,-78.82791
+42.90354,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d855037-Reviews-Hershey_s_Ice_Cream-Buffalo_New_York.html,Hershey's Ice Cream,-78.83138
+42.779392,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5012642-Reviews-Five_Guys-Buffalo_New_York.html,Five Guys,-78.81217
+42.95277,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d10304621-Reviews-Russell_s_Steak_House-Buffalo_New_York.html,Russell's Steak House,-78.69435
+42.94775,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5480316-Reviews-Nortel_Grille-Buffalo_New_York.html,Nortel Grille,-78.88125
+42.83963,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d848346-Reviews-Omega_Deli-Buffalo_New_York.html,Omega Deli,-78.76589
+42.912647,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d2630631-Reviews-The_Oakk_Room-Buffalo_New_York.html,The Oakk Room,-78.86505
+42.899326,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5008448-Reviews-Buffalo_Melting_Point-Buffalo_New_York.html,Buffalo Melting Point,-78.87911
+42.936413,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4796333-Reviews-Joe_s_New_York_Style_Pizza-Buffalo_New_York.html,Joe's New York Style Pizza,-78.89146
+42.789066,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4632243-Reviews-Chipotle_Mexican_Grill-Buffalo_New_York.html,Chipotle Mexican Grill,-78.815056
+42.874527,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d6692291-Reviews-Buffalo_Iron_Works-Buffalo_New_York.html,Buffalo Iron Works,-78.87473
+42.94771,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d813249-Reviews-Taste_of_Thai-Buffalo_New_York.html,Taste of Thai,-78.85401
+42.958263,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d409129-Reviews-Curry_s_Pub_Restaurant-Buffalo_New_York.html,Curry's Pub & Restaurant,-78.85033
+42.98098,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d409164-Reviews-Mighty_Taco-Buffalo_New_York.html,Mighty Taco,-78.8689
+42.92472,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4330824-Reviews-Gino_s_NY_Pizza-Buffalo_New_York.html,Gino's NY Pizza,-78.87702
+42.920254,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408599-Reviews-Santasiero_s_Restaurant-Buffalo_New_York.html,Santasiero's Restaurant,-78.898346
+42.981438,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d409133-Reviews-Royal_Family_Restaurant_Incorporated-Buffalo_New_York.html,Royal Family Restaurant Incorporated,-78.884834
+42.933353,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4729378-Reviews-Marygold_Manor-Buffalo_New_York.html,Marygold Manor,-78.76065
+42.893517,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d409183-Reviews-Bellevue_Hotel-Buffalo_New_York.html,Bellevue Hotel,-78.73763
+42.89934,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408617-Reviews-Jim_s_Steak_out-Buffalo_New_York.html,Jim's Steak-out,-78.87729
+42.93526,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d409227-Reviews-Denny_s-Buffalo_New_York.html,Denny's,-78.71525
+42.93399,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d10145818-Reviews-Nye_Park_Tavern-Buffalo_New_York.html,Nye Park Tavern,-78.877335
+42.895103,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d1097701-Reviews-Chris_NY_Sandwich_Co-Buffalo_New_York.html,Chris' NY Sandwich Co.,-78.87531
+42.94797,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d7621789-Reviews-The_Public_House-Buffalo_New_York.html,The Public House,-78.86359
+42.88823,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408845-Reviews-Century_Grill-Buffalo_New_York.html,Century Grill,-78.87509
+42.92009,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d409124-Reviews-Athens_Family_Restaurant-Buffalo_New_York.html,Athens Family Restaurant,-78.78429
+42.93225,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d6408198-Reviews-AK_Cafe-Buffalo_New_York.html,AK Cafe,-78.87699
+42.873226,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d8821481-Reviews-Lockhouse_Distillery_Bar-Buffalo_New_York.html,Lockhouse Distillery & Bar,-78.87223
+42.952,3.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408559-Reviews-Frank_s_Sunny_Italy_Family-Buffalo_New_York.html,Frank's Sunny Italy Family,-78.86889
+42.94961,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408631-Reviews-McPartlan_s_Corner_INC-Buffalo_New_York.html,McPartlan's Corner INC,-78.75951
+42.94776,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3876825-Reviews-New_Jewel_of_India-Buffalo_New_York.html,New Jewel of India,-78.86123
+42.835842,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408768-Reviews-Wayside_Family_Restaurant-Buffalo_New_York.html,Wayside Family Restaurant,-78.82412
+42.92318,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4250935-Reviews-Caffe_Aroma-Buffalo_New_York.html,Caffe Aroma,-78.87684
+42.89671,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d1073506-Reviews-Ulrich_s_Restaurant-Buffalo_New_York.html,Ulrich's Restaurant,-78.86865
+42.89055,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d9729706-Reviews-Frankie_Primo_s_39-Buffalo_New_York.html,Frankie Primo's +39,-78.87492
+42.95842,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4514224-Reviews-JJ_s_Cafe_House_of_Breakfast-Buffalo_New_York.html,JJ's Cafe - House of Breakfast,-78.828156
+42.890556,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4353940-Reviews-SPoT-Buffalo_New_York.html,SPoT,-78.87646
+42.899734,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d877055-Reviews-Panaro_s-Buffalo_New_York.html,Panaro's,-78.87362
+42.83966,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d2582218-Reviews-Brick_Oven_Bistro_Deli-Buffalo_New_York.html,Brick Oven Bistro & Deli,-78.80773
+42.881996,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408895-Reviews-Washington_Square_Restaurant-Buffalo_New_York.html,Washington Square Restaurant,-78.8742
+42.911037,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d1034404-Reviews-Mythos_Restaurant-Buffalo_New_York.html,Mythos Restaurant,-78.8774
+42.89064,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3810020-Reviews-Tap_House_Pub_Grill-Buffalo_New_York.html,Tap House Pub & Grill,-78.87612
+42.915188,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408589-Reviews-La_Nova_Wing_Incorporated-Buffalo_New_York.html,La Nova Wing Incorporated,-78.888214
+42.89104,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408839-Reviews-Sue_s_Ny_Deli-Buffalo_New_York.html,Sue's Ny Deli,-78.87304
+42.919197,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4604978-Reviews-Taste_of_Siam-Buffalo_New_York.html,Taste of Siam,-78.877304
+42.872166,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d409094-Reviews-Wiechec_s_Lounge-Buffalo_New_York.html,Wiechec's Lounge,-78.81198
+42.95313,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4249207-Reviews-Picasso_s_Pizza-Buffalo_New_York.html,Picasso's Pizza,-78.69694
+42.94767,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d1071277-Reviews-Kostas-Buffalo_New_York.html,Kostas,-78.85011
+42.88959,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d1509698-Reviews-Della_Terra-Buffalo_New_York.html,Della Terra,-78.87713
+42.899364,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408868-Reviews-Cafe_59-Buffalo_New_York.html,Cafe 59,-78.87237
+42.947517,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d8286705-Reviews-Mac_s_on_Hertel-Buffalo_New_York.html,Mac's on Hertel,-78.85477
+42.89276,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d1444341-Reviews-Encore-Buffalo_New_York.html,Encore,-78.87354
+42.88813,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d4467750-Reviews-Atrium_Bar_and_Bistro-Buffalo_New_York.html,Atrium Bar and Bistro,-78.87444
+42.91288,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408567-Reviews-Marco_s_Italian_Restaurant-Buffalo_New_York.html,Marco's Italian Restaurant,-78.89938
+42.91278,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d5111059-Reviews-Providence_Social-Buffalo_New_York.html,Providence Social,-78.88389
+42.898,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3521879-Reviews-Coco_Bar_Bistro-Buffalo_New_York.html,Coco Bar & Bistro,-78.87037
+42.89052,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d2201856-Reviews-SOHO_BURGER_BAR-Buffalo_New_York.html,SOHO BURGER BAR,-78.87542
+42.96892,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d510229-Reviews-Bocce_Club_Pizza-Buffalo_New_York.html,Bocce Club Pizza,-78.81395
+42.82808,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d6414726-Reviews-Winfield_s_Pub-Buffalo_New_York.html,Winfield's Pub,-78.80718
+42.91728,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d6351325-Reviews-SATO_Modern_Japanese_Cuisine-Buffalo_New_York.html,SATO - Modern Japanese Cuisine,-78.87675
+42.936768,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d3989791-Reviews-The_Phoenix-Buffalo_New_York.html,The Phoenix,-78.89347
+42.998642,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d837725-Reviews-Panera_Bread-Buffalo_New_York.html,Panera Bread,-78.82217
+42.896206,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d1235401-Reviews-Merge-Buffalo_New_York.html,Merge,-78.874725
+42.892742,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d1475636-Reviews-31_Club-Buffalo_New_York.html,31 Club,-78.87752
+42.83371,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d5064574-Reviews-Wegmans-Buffalo_New_York.html,Wegmans,-78.78344
+42.85436,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408649-Reviews-Blackthorn_Restaurant_Pub-Buffalo_New_York.html,Blackthorn Restaurant & Pub,-78.80823
+42.92762,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d408863-Reviews-India_Gate-Buffalo_New_York.html,India Gate,-78.87725
+42.91508,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d659389-Reviews-BRAVO_Cucina_Italiana-Buffalo_New_York.html,BRAVO Cucina Italiana,-78.763596
+42.78385,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4754735-Reviews-Rust_Belt_Bar_and_Grill-Buffalo_New_York.html,Rust Belt Bar and Grill,-78.849434
+42.884815,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d3315316-Reviews-Pan_American_Grill_Brewery-Buffalo_New_York.html,Pan American Grill & Brewery,-78.873085
+42.907986,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d1538796-Reviews-Famous_Dave_s-Buffalo_New_York.html,Famous Dave's,-78.77218
+42.963123,5.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d8809705-Reviews-La_Divina_Tacos-Buffalo_New_York.html,La Divina Tacos,-78.87045
+42.86594,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d3984462-Reviews-Gene_McCarthy_s-Buffalo_New_York.html,Gene McCarthy's,-78.85994
+42.89773,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408563-Reviews-Mother_s_Restaurant-Buffalo_New_York.html,Mother's Restaurant,-78.87348
+40.67296,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d4026256-Reviews-Lloyd_Taco_Trucks-Buffalo_New_York.html,Lloyd Taco Trucks,-73.92519
+42.92802,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408587-Reviews-Danny_s_Restaurant-Buffalo_New_York.html,Danny's Restaurant,-78.74781
+42.899666,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d2424301-Reviews-Cantina_Loco-Buffalo_New_York.html,Cantina Loco,-78.876976
+42.909138,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d905722-Reviews-Trattoria_Aroma-Buffalo_New_York.html,Trattoria Aroma,-78.87847
+42.92732,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408614-Reviews-Coles_Restaurant-Buffalo_New_York.html,Coles Restaurant,-78.87728
+42.915493,4.5,https://www.tripadvisor.com/Restaurant_Review-g60974-d1652029-Reviews-The_Melting_Pot-Buffalo_New_York.html,The Melting Pot,-78.76294
+42.890743,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d805786-Reviews-Papaya-Buffalo_New_York.html,Papaya,-78.87674
+42.897926,4.0,https://www.tripadvisor.com/Restaurant_Review-g60974-d408641-Reviews-Fat_Bob_s-Buffalo_New_York.html,Fat Bob's,-78.87344
